@@ -2,7 +2,7 @@
 
 # Site settings
 title: Cloud-Barista
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "Cloud-Barista는 멀티 클라우드 서비스/솔루션을 만드는데 반드시 요구되는 기반, 공통SW 기술 / 커뮤니티"
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
 url: "https://cloud-barista.github.io"
@@ -51,6 +51,7 @@ address:
     - 218 Gajeong-ro, 
     - Yuseong-gu, Daejeon, 34129,
     - KOREA.
+    - djkang@etri.re.kr
 email: djkang@etri.re.kr
 tel: +82-42-860-1561
 
@@ -108,7 +109,7 @@ clients:
     img: client04.png
 
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+about: "Cloud-Barista는 멀티 클라우드 서비스/솔루션을 만드는데 반드시 요구되는 기반, 공통SW 기술 / 커뮤니티"
 
 # Testimonial content. Shown on Home and About page.
 testimonial:
