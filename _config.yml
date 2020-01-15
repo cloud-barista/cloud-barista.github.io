@@ -48,13 +48,9 @@ social:
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
   - lines:
-    - ETRI
-    - 218 Gajeong-ro, 
-    - Yuseong-gu, Daejeon, 34129,
-    - Korea
-    - djkang@etri.re.kr
-email: djkang@etri.re.kr
-tel: +82-42-860-1561
+    - Cloud-Barista Community
+email: cloud-barita@googlegroups.com
+tel: +82-xx-xxxx-xxxx
 
 
 ### GENERAL DATA FOR VARIOUS LOCATIONS ###
