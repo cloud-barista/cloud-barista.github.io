@@ -2,7 +2,7 @@
 
 # Site settings
 title: Cloud-Barista
-description: "Cloud-Barista는 멀티 클라우드 서비스/솔루션을 만드는데 반드시 필요한 기반/공통SW 기술입니다."
+description: "Cloud-Barista는 멀티 클라우드 서비스/솔루션을 개발하는 반드시 필요한 기반/공통SW 기술입니다."
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
 url: "https://cloud-barista.github.io"
@@ -49,7 +49,7 @@ social:
 address:
   - lines:
     - Cloud-Barista Community
-    - E-mail - cloud.barista.community@gmail.com
+    - Email - cloud.barista.community@gmail.com
 email: cloud.barista.community@gmail.com
 tel: +82-xx-xxxx-xxxx
 
