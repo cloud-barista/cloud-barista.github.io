@@ -1,0 +1,86 @@
+---
+layout: index
+title: Home
+permalink: /
+---
+
+<style>
+    hr.two{width: 500px;color:red;border: thin solid red;}
+    hr.two_1{width: 500px;border-bottom:0px; text-align:left; margin-left: 0px;}
+    hr.three{height: 50px;}
+    hr.three1{height: 50px; width:0px;}
+    hr.four{border:none;}
+    hr.five{border:none; border:1px dashed blue;}
+    hr.six{border:none; border:5px double orange;} 
+</style>
+
+<div id="main-image">
+    <div class="container">
+        <div class="row">
+     <P>
+    <div class="col-xl-5 col-xl-offset-2 himg">
+        <img src="{{ "/assets/img/main.png" | prepend: site.baseurl }}" class="img-responsive">
+    </div>
+</div><!-- /row -->
+</div> <!-- /container -->
+</div><!-- /main-image -->
+
+
+<hr class="one">
+
+<div id="service">
+    <div class="container">
+        <div class="row centered">
+            <div class="col-md-4">
+                <i class="fa fa-heart-o" aria-hidden="true"></i>
+                <span class="sr-only">An image of a love-heart</span>
+                <h4>Cloud-Barista COMMUNITY</h4>
+                <p>누구나 마음먹은 대로 고치고, 사용할 수 있는 소스코드를 개발하여 공유하고, 신속하고 효율적인 소통을 추구합니다.</p>
+                <p><br/><a href="/community/" class="btn btn-theme">More Info</a></p>
+            </div>
+            <div class="col-md-4">
+                <i class="fa fa-flask" aria-hidden="true"></i>
+                <span class="sr-only">An image of a laboratory flask</span>
+                <h4>NOTICE</h4>
+                <p>2019년도에 Americano 버전 release 행사가 있었습니다.</p>
+                <p><br/><a href="/notice/" class="btn btn-theme">More Info</a></p>
+            </div>
+            <div class="col-md-4">
+                <i class="fa fa-trophy" aria-hidden="true"></i>
+                <span class="sr-only">An image of a trophy</span>
+                <h4>DOWNLOAD</h4>
+                <p>Cloud-Barista Americano 버전을 다운로드 받으실수 있습니다.</p>
+                <p><br/><a href="/download/" class="btn btn-theme">More Info</a></p>
+            </div>
+        </div>
+    </div><!--/container -->
+</div><!--/service -->
+
+<hr class="one">
+
+<div class="container mtb">
+    <div class="row">
+        <div class="col-lg-4 col-lg-offset-1">
+            <h4>About Cloud-Barista</h4>
+            <p>{{ site.about }}</p>
+            <p><br/><a href="{{ "/about/" | prepend: site.baseurl }}" class="btn btn-theme">More Info</a></p>
+        </div>
+
+        <div class="col-lg-3">
+            <h4>Frequently Asked</h4>
+            <div class="hline"></div>
+            {% for question in site.questions %}
+                <p><a href="{{ question.url | prepend: site.baseurl }}">{{ question.title }}</a></p>
+            {% endfor %}
+        </div>
+
+        <div class="col-lg-3">
+            <h4>Latest Posts</h4>
+            <div class="hline"></div>
+            {% for post in site.posts limit:5 %}
+                <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}.</a></p>
+            {% endfor %}
+        </div>
+
+    </div><!--/row -->
+</div><!--/container -->

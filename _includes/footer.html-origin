@@ -2,6 +2,11 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-4">
+                <h4>About</h4>
+                <div class="hline-w"></div>
+                <p>{{ site.about }}</p>
+            </div>
+            <div class="col-lg-4">
                 <h4>Social Links</h4>
                 <div class="hline-w"></div>
                 <p>
@@ -12,8 +17,6 @@
                         </a>
                     {% endfor %}
                 </p>
-            </div>
-            <div class="col-lg-4">
             </div>
             <div class="col-lg-4">
                 <h4>Contact</h4>
