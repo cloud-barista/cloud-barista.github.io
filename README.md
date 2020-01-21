@@ -5,4 +5,4 @@ Welcome to Cloud-Barista!!
 
 This site is created with a jekyll theme, Solid(https://github.com/st4ple/solid-jekyll/).
 
-The theme is licensed under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
+The Solid theme is licensed under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
