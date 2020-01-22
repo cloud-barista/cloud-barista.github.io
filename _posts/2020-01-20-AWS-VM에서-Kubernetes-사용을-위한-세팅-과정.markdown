@@ -22,20 +22,24 @@ thumb: kubernetes.png
 <!--more-->
 4. 기본 설정 방법
 	>■ 계정 비밀번호 설정
+
 	>	$ sudo passwd root / sudo passwd ubuntu
 	
 	>■ hostName 변경(여러 창을 띄워놓고 작업 중 구분 쉽게하기 위해)
+
 	>	$ sudo vim /etc/hostname	기존의 것 삭제 후 hostname 입력
 	>	$ sudo vim /etc hosts		127.0.0.1 hostname 추가 입력
 	
 	>■ 패키지 Install 속도 증가를 위해
+
 	>	$ sudo vim /etc/apt/source.list
 	>	$ %s/바꿀내용/mirror.kakao.com/g
 
 	>■ 패키지 Installer update (2개 다하는 것은 옵션)
+	
 	>	$ sudo apt-get update –y && sudo apt-get upgrade –y
 	>	$ sudo apt update –y && sudo apt upgrade –y
-	
+
 	■ ssh 설정
 		$ sudo vim /etc/ssh/sshd.config
 		$ #port 22 -> #제거 (옵션)
