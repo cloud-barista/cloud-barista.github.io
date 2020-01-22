@@ -114,9 +114,9 @@ thumb: kubernetes.png
 		$ sudo kubeadm join <MasterIp:6443> --token <token 값> 
 		--disocvery-token-ca-cert-hash sha256:<Hash 값>
 	
-	>■ Cluster 확인
-		(Master에서) $ sudo kubectl cluster-info
-		(Master에서) $ sudo kubectl get nodes 
+	>■ Cluster 확인(Master에서)
+	>	$ sudo kubectl cluster-info
+	>	$ sudo kubectl get nodes 
 
 7. Web Tool 설치
 	>■ 대시보드 배포
