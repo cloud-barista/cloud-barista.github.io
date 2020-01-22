@@ -2,7 +2,7 @@
 layout: post
 title: "AWS VM에서 Kubernetes 사용을 위한 세팅 과정"
 date: 2020-01-20 16:54:46
-author: Admin
+author: 박진휘
 categories: 
 - blog 
 - Kubernetes
@@ -87,8 +87,8 @@ thumb: kubernetes.png
 
 	>■ Pod Network CNI 설치 (Calico 선택시)
 
-		$ sudo kubectl apply –f 	https://docs.projectcalico.org/
-		v3.3/getting-started/kubernetes/installation/hosted/rbac-kdd.yaml		- Pod Network Cidr 설정 필요
+		$ sudo kubectl apply –f  https://docs.projectcalico.org/
+		v3.3/getting-started/kubernetes/installation/hosted/rbac-kdd.yaml	- Pod Network Cidr 설정 필요
 		$ wget https://docs.projectcalico.org/v3.3/getting-started/
 		kubernetes/installation/hosted/kubernetes-datastore/
 		calico-networking/1.7/calico.yaml
@@ -130,7 +130,7 @@ thumb: kubernetes.png
 		$ openssl pkcs12 -export -clcerts -inkey kube.key -in kube.crt –out kube.p12 -name "one-node"
 			/etc/kubernetes/pki/ca.crt , kube.p12 파일 접속할 환경으로 이동
 	
-	>■ 인증서 추가 후 Dashboard 접속 
+	>■ 인증서 추가 후 Dashboard 접속 :
 https://master_ip:api_server_port/api/v1/namespaces/kubernetes-dashboard/services/https:kubernetes-dashboard:/proxy/
 
 	>	※master_ip: api_server_port 확인
