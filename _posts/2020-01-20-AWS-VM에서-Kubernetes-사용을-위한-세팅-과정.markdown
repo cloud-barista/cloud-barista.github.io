@@ -7,8 +7,8 @@ categories:
 - blog 
 - Kubernetes
 - AWS
-img: kuberneteslogo.png
-thumb: 
+img: kubernetes.jpeg
+thumb: kubernetes.png
 ---
 
 1. EC2 접속
@@ -38,7 +38,7 @@ thumb:
 		$ #PermitRootLogin no –> yes (옵션)
 		$ #PasswordAuthentication no  -> yes (키페어 사용안할 시)
 	■ ssh 재시작 / 설정적용
-		$ sudo service ssh restart
+		$ sudo service ssh restart <
 
 5. K8s 설치과정 
 	■ 도커 설치
