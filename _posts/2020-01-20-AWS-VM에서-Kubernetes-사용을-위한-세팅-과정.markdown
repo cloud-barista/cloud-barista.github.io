@@ -40,18 +40,18 @@ thumb: kubernetes.png
 	>	$ sudo apt-get update –y && sudo apt-get upgrade –y
 	>	$ sudo apt update –y && sudo apt upgrade –y
 
-	■ ssh 설정
+	>■ ssh 설정
 		$ sudo vim /etc/ssh/sshd.config
 		$ #port 22 -> #제거 (옵션)
 		$ #PermitRootLogin no –> yes (옵션)
 		$ #PasswordAuthentication no  -> yes (키페어 사용안할 시)
-	■ ssh 재시작 / 설정적용
+	>■ ssh 재시작 / 설정적용
 		$ sudo service ssh restart
 
 5. K8s 설치과정 
 	>■ 도커 설치
 		$ sudo apt-get install –y docker.io
-	■ K8s 설치 (k8s document 참고) 
+	>■ K8s 설치 (k8s document 참고) 
 https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/install-kubeadm/
 	$ sudo apt-get update && sudo apt-get install -y apt-transport-https curl
 	$ curl -s https://packages.cloud.google.com/apt/doc/apt-key.gpg | sudo 		apt-key add -
@@ -72,12 +72,12 @@ https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/install-ku
 		$ sudo kubeadm init —pod-network-cidr=172.16.0.0/16
 			(Pod Network 옵션 선택적)
 
-	■ 일반 User 계정에서 Kubectl 명령어 수행 권한 부여
+	>■ 일반 User 계정에서 Kubectl 명령어 수행 권한 부여
 		$ mkdir –p $HOME/.kube
 		$ cp -i /etc/kubernetes/admin.conf $HOME/.kube/config
 		$ chown $(id -u):$(id -g) $HOME/.kube/config
 
-	■ Pod Network CNI 설치 (Calico 선택시)
+	>■ Pod Network CNI 설치 (Calico 선택시)
 		$ sudo kubectl apply –f 	https://docs.projectcalico.org/
 		v3.3/getting-started/kubernetes/installation/hosted/rbac-kdd.yaml		- Pod Network Cidr 설정 필요
 		$ wget https://docs.projectcalico.org/v3.3/getting-started/
@@ -92,18 +92,18 @@ https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/install-ku
 			  matchLabels:
 			     k8s-app: calico-typha	
 	
-	■ Node Join 인자 확인
+	>■ Node Join 인자 확인
 		$ sudo kubeadm token list // 토큰 값 확인
 		$ sudo token create // 토큰 값 expired일 경우
 		$ sudo openssl x509 –pubkey –in /etc/kubernetes/pki/ca.crt |
 		openssl rsa –pubin –outform der 2>/dev/null |
 		openssl dgst –sha256 –hex | sed ‘s/^.*//’	//Hash 확인
 	
-	■ Node Join
+	>■ Node Join
 		$ sudo kubeadm join <MasterIp:6443> --token <token 값> 
 		--disocvery-token-ca-cert-hash sha256:<Hash 값>
 	
-	■ Cluster 확인
+	>■ Cluster 확인
 		(Master에서) $ sudo kubectl cluster-info
 		(Master에서) $ sudo kubectl get nodes 
 
@@ -112,14 +112,13 @@ https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/install-ku
 $ sudo kubectl apply –f https://raw.githubusercontent.com/kubernetes/dashboard/
 v2.0.0-rc1/aio/deploy/recommended.yaml
 	
-	
-	■ 접속을 위한 환경 과정 (https://crystalcube.co.kr/199 참고)
+	>■ 접속을 위한 환경 과정 (https://crystalcube.co.kr/199 참고)
 	$ grep 'client-certificate-data' ~/.kube/config | head -n 1 | awk '{print $2}' | base64 -d >> kube.crt
 	$ grep 'client-key-data' ~/.kube/config | head -n 1 | awk '{print $2}' | base64 -d >> kube.key
 	$ openssl pkcs12 -export -clcerts -inkey kube.key -in kube.crt –out kube.p12 -name "one-node"
 	/etc/kubernetes/pki/ca.crt , kube.p12 파일 접속할 환경으로 이동
 	
-	■ 인증서 추가 후 Dashboard 접속 
+	>■ 인증서 추가 후 Dashboard 접속 
 https://master_ip:api_server_port/api/v1/namespaces/kubernetes-dashboard/services/https:kubernetes-dashboard:/proxy/
 
 ※master_ip: api_server_port 확인
