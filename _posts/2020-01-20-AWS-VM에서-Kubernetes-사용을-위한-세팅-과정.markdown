@@ -41,25 +41,27 @@ thumb: kubernetes.png
 	>	$ sudo apt update –y && sudo apt upgrade –y
 
 	>■ ssh 설정
-		$ sudo vim /etc/ssh/sshd.config
-		$ #port 22 -> #제거 (옵션)
-		$ #PermitRootLogin no –> yes (옵션)
-		$ #PasswordAuthentication no  -> yes (키페어 사용안할 시)
+	>	$ sudo vim /etc/ssh/sshd.config
+	>	$ #port 22 -> #제거 (옵션)
+	>	$ #PermitRootLogin no –> yes (옵션)
+	>	$ #PasswordAuthentication no  -> yes (키페어 사용안할 시)
+
 	>■ ssh 재시작 / 설정적용
-		$ sudo service ssh restart
+	>	$ sudo service ssh restart
 
 5. K8s 설치과정 
 	>■ 도커 설치
-		$ sudo apt-get install –y docker.io
+	>	$ sudo apt-get install –y docker.io
+	
 	>■ K8s 설치 (k8s document 참고) 
-https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/install-kubeadm/
-	$ sudo apt-get update && sudo apt-get install -y apt-transport-https curl
-	$ curl -s https://packages.cloud.google.com/apt/doc/apt-key.gpg | sudo 		apt-key add -
-	$ cat <<EOF | sudo tee /etc/apt/sources.list.d/kubernetes.list
-	  deb https://apt.kubernetes.io/ kubernetes-xenial main
-	  EOF
-	$ sudo apt-get update
-	$ sudo apt-get install -y kubelet kubeadm kubectl 
+	> 	https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/install-kubeadm/
+	>	$ sudo apt-get update && sudo apt-get install -y apt-transport-https curl
+	>	$ curl -s https://packages.cloud.google.com/apt/doc/apt-key.gpg | sudo 		apt-key add -
+	>	$ cat <<EOF | sudo tee /etc/apt/sources.list.d/kubernetes.list
+	>	  deb https://apt.kubernetes.io/ kubernetes-xenial main
+	>     EOF
+	>	$ sudo apt-get update
+	>	$ sudo apt-get install -y kubelet kubeadm kubectl 
 		※worker에는 kubectl 제외
 	(선택적)sudo apt-mark hold kubelet kubeadm kubectl
 		※버전 홀드 풀려면 sudo apt-mark unhold~
