@@ -57,10 +57,10 @@ thumb: kubernetes.png
 	>	$ sudo apt-get install –y docker.io
 	
 	>■ K8s 설치 (k8s document 참고) 
-	> 	https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/install-kubeadm/
+	> 	: https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/install-kubeadm/
 
 	>	$ sudo apt-get update && sudo apt-get install -y apt-transport-https curl
-	>	$ curl -s https://packages.cloud.google.com/apt/doc/apt-key.gpg | sudo 		apt-key add -
+	>	$ curl -s https://packages.cloud.google.com/apt/doc/apt-key.gpg | sudo apt-key add -
 	>	$ cat <<EOF | sudo tee /etc/apt/sources.list.d/kubernetes.list
 	>	  deb https://apt.kubernetes.io/ kubernetes-xenial main
 	>     EOF
