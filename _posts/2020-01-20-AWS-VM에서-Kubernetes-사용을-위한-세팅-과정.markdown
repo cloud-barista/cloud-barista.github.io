@@ -7,7 +7,7 @@ categories:
 - blog 
 - Kubernetes
 - AWS
-img: 
+img: kuberneteslogo.png
 thumb: 
 ---
 
