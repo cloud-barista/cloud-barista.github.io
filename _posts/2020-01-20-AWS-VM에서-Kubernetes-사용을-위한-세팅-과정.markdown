@@ -14,20 +14,17 @@ thumb: kubernetes.png
 1. EC2 접속
 
 2. 인스턴스 이미지 종류 검색 
-	>■ 18.04 검색
-
+	>■ 18.04 검색<br>
 	>■ 우분투 18.04 LTS버전 선택
 
 3. 인스턴스 생성 시작
 	>■ flavor , volume, 보안 그룹, 키페어 선택
 <!--more-->
 4. 기본 설정 방법
-	>■ 계정 비밀번호 설정
-
-		>$ sudo passwd root / sudo passwd ubuntu
+	>■ 계정 비밀번호 설정<br>
+	>	$ sudo passwd root / sudo passwd ubuntu
 	
-	>■ hostName 변경(여러 창을 띄워놓고 작업 중 구분 쉽게하기 위해)
-
+	>■ hostName 변경(여러 창을 띄워놓고 작업 중 구분 쉽게하기 위해)<br>
 	>	$ sudo vim /etc/hostname	기존의 것 삭제 후 hostname 입력
 
 	>	$ sudo vim /etc hosts		127.0.0.1 hostname 추가 입력
