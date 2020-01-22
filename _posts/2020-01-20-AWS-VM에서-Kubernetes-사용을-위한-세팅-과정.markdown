@@ -121,19 +121,19 @@ thumb: kubernetes.png
 7. Web Tool 설치
 	>■ 대시보드 배포
 
-	$ sudo kubectl apply –f https://raw.githubusercontent.com/kubernetes/dashboard/
+		$ sudo kubectl apply –f https://raw.githubusercontent.com/kubernetes/dashboard/
 		v2.0.0-rc1/aio/deploy/recommended.yaml
 	
 	>■ 접속을 위한 환경 과정 (https://crystalcube.co.kr/199 참고)
 
-	$ grep 'client-certificate-data' ~/.kube/config | head -n 1 | awk '{print $2}' | base64 -d >> kube.crt
-	$ grep 'client-key-data' ~/.kube/config | head -n 1 | awk '{print $2}' | base64 -d >> kube.key
-	$ openssl pkcs12 -export -clcerts -inkey kube.key -in kube.crt –out kube.p12 -name "one-node"
-	/etc/kubernetes/pki/ca.crt , kube.p12 파일 접속할 환경으로 이동
+		$ grep 'client-certificate-data' ~/.kube/config | head -n 1 | awk '{print $2}' | base64 -d >> kube.crt
+		$ grep 'client-key-data' ~/.kube/config | head -n 1 | awk '{print $2}' | base64 -d >> kube.key
+		$ openssl pkcs12 -export -clcerts -inkey kube.key -in kube.crt –out kube.p12 -name "one-node"
+			/etc/kubernetes/pki/ca.crt , kube.p12 파일 접속할 환경으로 이동
 	
 	>■ 인증서 추가 후 Dashboard 접속 
 https://master_ip:api_server_port/api/v1/namespaces/kubernetes-dashboard/services/https:kubernetes-dashboard:/proxy/
 
 	>	※master_ip: api_server_port 확인
 
-	$ sudo kubectl cluster-info
+	>	$ sudo kubectl cluster-info
