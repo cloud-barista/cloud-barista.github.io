@@ -105,9 +105,7 @@ thumb: kubernetes.png
 
 		$ sudo kubeadm token list // 토큰 값 확인
 		$ sudo token create // 토큰 값 expired일 경우
-		$ sudo openssl x509 –pubkey –in /etc/kubernetes/pki/ca.crt |
-		openssl rsa –pubin –outform der 2>/dev/null |
-		openssl dgst –sha256 –hex | sed ‘s/^.*//’	//Hash 확인
+		$ sudo openssl x509 –pubkey –in /etc/kubernetes/pki/ca.crt | openssl rsa –pubin –outform der 2>/dev/null | openssl dgst –sha256 –hex | sed ‘s/^.*//’	// Hash 확인
 	
 	>■ Node Join
 	
@@ -115,6 +113,7 @@ thumb: kubernetes.png
 		--disocvery-token-ca-cert-hash sha256:<Hash 값>
 	
 	>■ Cluster 확인(Master에서)
+
 	>	$ sudo kubectl cluster-info
 	>	$ sudo kubectl get nodes 
 
