@@ -24,7 +24,7 @@ thumb: kubernetes.png
 4. 기본 설정 방법
 	>■ 계정 비밀번호 설정
 
-	>   $ sudo passwd root / sudo passwd ubuntu
+		>$ sudo passwd root / sudo passwd ubuntu
 	
 	>■ hostName 변경(여러 창을 띄워놓고 작업 중 구분 쉽게하기 위해)
 
@@ -50,7 +50,7 @@ thumb: kubernetes.png
 		$ sudo service ssh restart
 
 5. K8s 설치과정 
-	■ 도커 설치
+	>■ 도커 설치
 		$ sudo apt-get install –y docker.io
 	■ K8s 설치 (k8s document 참고) 
 https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/install-kubeadm/
@@ -65,8 +65,8 @@ https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/install-ku
 	(선택적)sudo apt-mark hold kubelet kubeadm kubectl
 		※버전 홀드 풀려면 sudo apt-mark unhold~
 	
-5. K8s 클러스터 구축 과정
-	■ 클러스터 초기화
+6. K8s 클러스터 구축 과정
+	>■ 클러스터 초기화
 		$ sudo systemctl restart kubelet (모든 노드에서 실행)
 		$ sudo systemctl enable kubelet (모든 노드에서 실행)
 		$ sudo swapoff –a (모든 노드에서 실행)
@@ -108,8 +108,8 @@ https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/install-ku
 		(Master에서) $ sudo kubectl cluster-info
 		(Master에서) $ sudo kubectl get nodes 
 
-6. Web Tool 설치
-	■ 대시보드 배포
+7. Web Tool 설치
+	>■ 대시보드 배포
 $ sudo kubectl apply –f https://raw.githubusercontent.com/kubernetes/dashboard/
 v2.0.0-rc1/aio/deploy/recommended.yaml
 	
