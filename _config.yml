@@ -34,15 +34,14 @@ collections:
 
 # Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
 social:
-  - title: facebook
-    url:
-  - title: tumblr
-    url:
-  - title: slack
-    url: https://slack.com/intl/en-kr/
   - title: github
     url: http://github.com/cloud-barista
+  - title: slack
+    url: https://slack.com/intl/en-kr/
+  - title: slideshare
+    url: https://www.slideshare.net/cloud-barista
 
+    
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
   - lines:
