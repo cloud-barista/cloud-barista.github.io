@@ -34,13 +34,7 @@ collections:
 
 # Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
 social:
-  - title: dribbble
-    url:
   - title: facebook
-    url:
-  - title: twitter
-    url:
-  - title: instagram
     url:
   - title: tumblr
     url:
