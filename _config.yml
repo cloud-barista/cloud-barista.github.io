@@ -46,6 +46,8 @@ social:
     url:
   - title: slack
     url: https://slack.com/intl/en-kr/
+  - title: github
+    url: http://github.com/cloud-barista
 
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
