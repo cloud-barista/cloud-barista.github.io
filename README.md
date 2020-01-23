@@ -1,7 +1,7 @@
-Welcome to Cloud-Barista!!
+Welcome to Cloud-Barista!
 ===========================
 
-## This website is for introduction about Cloud-Barista Platform(opensource software).
+## This website is for information sharing about Cloud-Barista Technology and Community.
 
 This site is created with a jekyll theme, Solid(https://github.com/st4ple/solid-jekyll/).
 
