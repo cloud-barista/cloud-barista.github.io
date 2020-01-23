@@ -12,9 +12,7 @@ thumb: cloud-barista.png
 ---
 
 #### Cloud-Barista 1st Open Seminar 행사를 성황리에 마쳤습니다.
-
 <BR>
-
 지난 2019년 11월 22일에 서울에서 Cloud-Barista Community 주관으로 Cloud-Barista Community 1st Open Seminar로서 Americano 버전 release 행사가 있었습니다.<BR>
 여러분들의 많은 참여와 관심으로 성공적인 행사가 될 수 있어서 진심으로 감사드립니다.
 <!--more-->
@@ -33,9 +31,7 @@ thumb: cloud-barista.png
 <BR>
 
 #### Cloud-Barista ver0.1-americano를 공유해드립니다.
-
 <BR>
-
 Cloud-Barista Community 1st Open Seminar와 관련하여, 세미나 발표자료와 1st release 버전인 ver0.1-americano를 공유해드립니다.
 
 * Cloud-Barista Americano 버전 Open Seminar 프로그램 및 발표자료	
