@@ -4,7 +4,7 @@ title: "AWS VM에서 Kubernetes 사용을 위한 세팅 과정"
 date: 2020-01-20 16:54:46
 author: 박진휘
 categories: 
-- blog 
+- 기술
 - Kubernetes
 - AWS
 img: kubernetes.jpeg
@@ -19,7 +19,6 @@ thumb: kubernetes.png
 
 #### 3. 인스턴스 생성 시작
  * flavor , volume, 보안 그룹, 키페어 선택<BR><BR>
-
 <!--more-->
 
 #### 4. 기본 설정 방법
