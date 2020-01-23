@@ -44,6 +44,8 @@ social:
     url:
   - title: tumblr
     url:
+  - title: slack
+    url: https://slack.com/intl/en-kr/
 
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
