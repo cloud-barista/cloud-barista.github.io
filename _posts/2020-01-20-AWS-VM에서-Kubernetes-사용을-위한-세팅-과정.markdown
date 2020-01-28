@@ -1,14 +1,13 @@
 ---
 layout: post
-title: "AWS VM에서 Kubernetes 사용을 위한 세팅 과정"
+title: Blog
+post_title: "AWS VM에서 Kubernetes 사용을 위한 세팅 과정"
 date: 2020-01-20 16:54:46
 author: 박진휘
 categories: 
 - 기술
 - Kubernetes
 - AWS
-img: kubernetes.jpeg
-thumb: kubernetes.png
 ---
 
 #### 1. EC2 접속
