@@ -11,10 +11,15 @@ layout: default
             <! -- Blog Post  -->
             <a href="{{ page.url | prepend: site.baseurl }}"><h3 class="ctitle">{{ page.post_title }}</h3></a>
             <p><csmall>{{ page.date | date: "%b %-d, %Y" }}. | By: {{ page.author }}</csmall></p>
-              
+  
             {{ content }}
 
+            <P><BR></P>
             <div class="spacing"></div>
+            <p class="share">
+                <a href="/blog/" class="btn btn-theme">More Posting</a>
+            </p>
+
             <!-- <h6>SHARE:</h6>
             <p class="share">
                 <a href="#"><i class="fa fa-twitter"></i></a>
@@ -23,7 +28,7 @@ layout: default
                 <a href="#"><i class="fa fa-google-plus"></i></a>		 		
             </p> -->
         </div><! --/col-lg-8 -->
-        
+
         {% include sidebar.html %}
 
     </div><! --/row -->
