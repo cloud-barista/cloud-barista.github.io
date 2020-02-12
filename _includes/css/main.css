@@ -531,3 +531,41 @@ a.anchor{
 	padding-top: 4px;
 	padding-bottom: 4px
 }
+
+.row.cmmb {
+	display: table;
+	width: 100%;
+	min-height:60px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.row.cmmb .col-md-2 {
+	display: table-cell;
+	width: 150px;
+	float: none;
+	vertical-align: middle;
+	padding-left: calc(8.33333333% + 15px);
+	box-sizing:content-box;
+}
+
+.row.cmmb .col-md-4 {
+	display: table-cell;
+	width: auto;
+	vertical-align: middle;
+	float: none;
+}
+
+.row.cmmb dl {
+	margin-bottom: 0;
+}
+@media (max-width: 1200px) {
+	.row.cmmb .col-md-2 {
+		padding-left:0
+	}
+}
+@media (max-width: 768px) {
+	.row.cmmb .col-md-2 {
+		width:120px
+	}
+}
