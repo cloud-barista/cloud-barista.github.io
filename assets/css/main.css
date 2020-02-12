@@ -1,3 +1,6 @@
+---
+layout: main
+---
 .members .col-md-2 {
     float: left;
     width: calc(100% / 6);
