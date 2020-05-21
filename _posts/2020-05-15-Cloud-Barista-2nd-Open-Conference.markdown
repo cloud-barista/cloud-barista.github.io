@@ -22,7 +22,8 @@ Cloud-Barista 오픈 소스 커뮤니티를 통해 클라우드 분야 차기 �
 <!--more-->
 
 <img src="/assets/img/blog/2nd-conference/square_payment_icon_132877.png" width="25" height="35" style="border:0px;vertical-align:middle"> 행 사 명 : Cloud-Barista Online Conference (The 2nd Event)
-- 부제 : “멀티 클라우드에 접속하다(Contact to the Multi-Cloud).”
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* 부제 : “멀티 클라우드에 접속하다(Contact to the Multi-Cloud).”
 
 <img src="/assets/img/blog/2nd-conference/square_payment_icon_132877.png" width="25" height="35" style="border:0px;vertical-align:middle"> 주   관 : 한국전자통신연구원, 메가존클라우드, 이노그리드, 아콘소프트, 한국클라우드산업협회, 정보통신산업진흥원
 
@@ -32,7 +33,7 @@ Cloud-Barista 오픈 소스 커뮤니티를 통해 클라우드 분야 차기 �
 
 <img src="/assets/img/blog/2nd-conference/square_payment_icon_132877.png" width="25" height="35" style="border:0px;vertical-align:middle"> 행사 방식 : 공개 온라인 컨퍼런스(무료)
 
-- 온라인 공개 채널 : AllshowTV 채널, Youtube 및 Facebook 채널
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* 온라인 공개 채널 : AllshowTV 채널, Youtube 및 Facebook 채널
 
 <img src="/assets/img/blog/2nd-conference/square_payment_icon_132877.png" width="25" height="35" style="border:0px;vertical-align:middle"> 참가 대상 : 클라우드 분야 종사자 또는 관련 기술에 관심이 있는 모든 분 
 
