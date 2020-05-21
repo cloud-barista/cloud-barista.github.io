@@ -94,8 +94,9 @@ Cloud-Barista 오픈 소스 커뮤니티를 통해 클라우드 분야 차기 �
 
 [![Contact to the Multi-Cloud](/assets/img/blog/2nd-conference/youtube-movie-clip3.png)](https://www.youtube.com/embed/fZbdXHUZ4A4?autoplay=1){:target="_blank"}
 
-{% Contact to the Multi-Cloud "https://www.youtube.com/embed/fZbdXHUZ4A4?autoplay=1" %}
 
 <iframe  title="YouTube video player" width="480" height="390" src="http://www.youtube.com/watch?v=TheVideoID?autoplay=1" frameborder="0" allowfullscreen></iframe>
+
+{% Contact to the Multi-Cloud "https://www.youtube.com/embed/fZbdXHUZ4A4?autoplay=1" %}
 
 
