@@ -10,9 +10,7 @@ categories:
 - Cloud-Barista
 ---
 
-<table border="0" width="700">
-<tr>
-<td>
+<div style="width:700px">
 
 ![Alt text](/assets/img/blog/leaflet-haeder.png)
 <!--more-->
@@ -88,5 +86,5 @@ Cloud-Barista 오픈 소스 커뮤니티를 통해 클라우드 분야 차기 �
 
 [![Contact to the Multi-Cloud](/assets/img/blog/youtube-movie-clip3.png)](https://www.youtube.com/embed/fZbdXHUZ4A4?)
 
-</td>
-</table>
+
+</div>
