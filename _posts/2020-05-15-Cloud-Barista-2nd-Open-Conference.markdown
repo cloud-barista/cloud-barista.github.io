@@ -36,7 +36,7 @@ Cloud-Barista 오픈 소스 커뮤니티를 통해 클라우드 분야 차기 �
 <img src="/assets/img/blog/2nd-conference/square_payment_icon_132877.png" width="25" height="35" style="border:0px;vertical-align:middle"> 참가 대상 : 클라우드 분야 종사자 또는 관련 기술에 관심이 있는 모든 분 
 
 <img src="/assets/img/blog/2nd-conference/square_payment_icon_132877.png" width="25" height="35" style="border:0px;vertical-align:middle"> 행사 프로그램<BR>
-![Alt text](/assets/img/blog/2nd-conference/barista_edm_01-edited-cut.jpg)
+![Alt text](/assets/img/blog/2nd-conference/barista_edm_01-edited-cut3.jpg)
 
 <BR>
 
@@ -65,20 +65,23 @@ Cloud-Barista 오픈 소스 커뮤니티를 통해 클라우드 분야 차기 �
  &nbsp;&nbsp;&nbsp;<img src="/assets/img/blog/2nd-conference/Facebook-Icon_22115.png" width="25" height="25" style="border:0px;vertical-align:middle">
     Cloud-Barista 커뮤니티 Facebook 채널 [[바로가기]](http://fb.com/groups/570753216908482/ "Cloud-Barista 커뮤니티 Facebook 채널"){:target="_blank"}
 
-     * Youtube 및 Facebook 채널은 사전등록 없이 시청 가능합니다.
-<BR>
+      * Youtube 및 Facebook 채널은 사전등록 없이 시청 가능합니다.
+>
 
 <span style="color:#557799"><img src="/assets/img/blog/2nd-conference/Quora-Icon_22095.png" width="30" height="30" style="border:0px;vertical-align:middle">
 **행사 문의 연락처**</span>
--	행사 운영 사무국 전화 : 070-8730-2343 / E-mail : lys@kcloud.or.kr
+ -	행사 운영 사무국 전화 : 070-8730-2343 / E-mail : lys@kcloud.or.kr
 
 <span style="color:#557799"><img src="/assets/img/blog/2nd-conference/Quora-Icon_22095.png" width="30" height="30" style="border:0px;vertical-align:middle">
 **Cloud-Barsita 기술 및 커뮤니티 Q&A 연락처**</span>
--	E-mail : contact-to-cloud-barista@googlegroups.com
+  -	E-mail : contact-to-cloud-barista@googlegroups.com
 
 <span style="color:#557799"><img src="/assets/img/blog/2nd-conference/Github-Icon_22102.png" width="30" height="30" style="border:0px;vertical-align:middle">
 **소스 코드 공개 안내**</span>
-- Cloud-Barista 2nd 버전(Cappuccino) 소스코드 및 관련 문서는 본 홈페이지 및 github(github.com/cloud-barista)를 통해 공유해드릴 예정입니다.
+
+    - Cloud-Barista 2nd 버전(Cappuccino) 소스코드 및 관련 문서는 본 홈페이지 및 github(github.com/cloud-barista)를 통해 공유해드릴 예정입니다.
+
+<BR>
 
 <span style="color:#557799"><img src="/assets/img/blog/2nd-conference/Youtube-Icon_22119.png" width="30" height="30" style="border:0px;vertical-align:middle">
 **행사 트레일러 동영상**</span>
