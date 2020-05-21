@@ -10,9 +10,7 @@ categories:
 - Cloud-Barista
 ---
 
-| <div style="width:700px">
-
-![Alt text](/assets/img/blog/2nd-conference/leaflet-haeder.png)
+![Alt text](/assets/img/blog/2nd-conference/leaflet-haeder.png =700x)
 
 Cloud-Barista 오픈 소스 커뮤니티를 통해 클라우드 분야 차기 트랜드의 일환인 멀티 클라우드 기술로서 Cloud-Barista 개발이 진행되고 있습니다.
 <BR>
@@ -87,4 +85,3 @@ Cloud-Barista 오픈 소스 커뮤니티를 통해 클라우드 분야 차기 �
 
 [![Contact to the Multi-Cloud](/assets/img/blog/2nd-conference/youtube-movie-clip3.png)](https://www.youtube.com/embed/fZbdXHUZ4A4?)
 
-</div> | 
