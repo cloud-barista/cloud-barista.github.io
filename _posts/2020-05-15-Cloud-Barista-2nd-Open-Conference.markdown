@@ -92,6 +92,4 @@ Cloud-Barista 오픈 소스 커뮤니티를 통해 클라우드 분야 차기 �
 <span style="color:#557799"><img src="/assets/img/blog/2nd-conference/Youtube-Icon_22119.png" width="30" height="30" style="border:0px;vertical-align:middle">
 **행사 트레일러 동영상**</span>
 
-[![Contact to the Multi-Cloud](/assets/img/blog/2nd-conference/youtube-movie-clip3.png)](https://www.youtube.com/embed/fZbdXHUZ4A4?autoplay=1){:target="_blank"}
-
 {% include youtube-embeded1.html id="fZbdXHUZ4A4" %}
