@@ -47,10 +47,12 @@ Cloud-Barista 오픈 소스 커뮤니티를 통해 클라우드 분야 차기 �
 
     ![Alt text](/assets/img/blog/2nd-conference/barista_edm_02-cut2.jpg)
 
+<BR>
+
 <span style="color:#557799"><img src="/assets/img/blog/2nd-conference/screen_icon-icons.com_52924.png" width="30" height="30" style="border:0px;vertical-align:middle">
 **온라인 컨퍼런스 참여 방법**</span>
 
-    -	온라인 공개 채널을 통한 무료 시청
+-	온라인 공개 채널을 통한 무료 시청
 
 &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="/assets/img/blog/2nd-conference/Lastfm-Icon_22087.png" width="25" height="25" style="border:0px;vertical-align:middle">
@@ -64,7 +66,7 @@ Cloud-Barista 오픈 소스 커뮤니티를 통해 클라우드 분야 차기 �
     <img src="/assets/img/blog/2nd-conference/Facebook-Icon_22115.png" width="25" height="25" style="border:0px;vertical-align:middle">
     Cloud-Barista 커뮤니티 Facebook 채널 [[바로가기]](http://fb.com/groups/570753216908482/ "Cloud-Barista 커뮤니티 Facebook 채널"){:target="_blank"}
 
-   > Youtube 및 Facebook 채널은 사전등록 없이 시청 가능합니다.
+   > 커뮤니티 Youtube 및 Facebook 채널은 사전등록 없이 시청 가능합니다.
 
 
 <span style="color:#557799"><img src="/assets/img/blog/2nd-conference/Quora-Icon_22095.png" width="30" height="30" style="border:0px;vertical-align:middle">
@@ -82,6 +84,7 @@ Cloud-Barista 오픈 소스 커뮤니티를 통해 클라우드 분야 차기 �
 
    > Cloud-Barista 2nd 버전(Cappuccino) 소스코드 및 관련 문서는 본 홈페이지 및 github(github.com/cloud-barista)를 통해 공유해드릴 예정입니다.
 
+<BR>
 
 <span style="color:#557799"><img src="/assets/img/blog/2nd-conference/Youtube-Icon_22119.png" width="30" height="30" style="border:0px;vertical-align:middle">
 **행사 트레일러 동영상**</span>
