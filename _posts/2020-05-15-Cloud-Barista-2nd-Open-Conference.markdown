@@ -21,32 +21,22 @@ Cloud-Barista 오픈 소스 커뮤니티를 통해 클라우드 분야 차기 �
 여러분들의 많은 관심과 참여를 부탁드립니다.
 <!--more-->
 
-&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="/assets/img/blog/2nd-conference/square_payment_icon_132877.png" width="25" height="35" style="border:0px;vertical-align:middle"> 행 사 명 : Cloud-Barista Online Conference (The 2nd Event)
+<img src="/assets/img/blog/2nd-conference/square_payment_icon_132877.png" width="25" height="35" style="border:0px;vertical-align:middle"> 행 사 명 : Cloud-Barista Online Conference (The 2nd Event)
+- 부제 : “멀티 클라우드에 접속하다(Contact to the Multi-Cloud).”
 
-&nbsp;&nbsp;&nbsp;&nbsp;
-    - 부제 : “멀티 클라우드에 접속하다(Contact to the Multi-Cloud).”
+<img src="/assets/img/blog/2nd-conference/square_payment_icon_132877.png" width="25" height="35" style="border:0px;vertical-align:middle"> 주   관 : 한국전자통신연구원, 메가존클라우드, 이노그리드, 아콘소프트, 한국클라우드산업협회, 정보통신산업진흥원
 
-&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="/assets/img/blog/2nd-conference/square_payment_icon_132877.png" width="25" height="35" style="border:0px;vertical-align:middle"> 주   관 : 한국전자통신연구원, 메가존클라우드, 이노그리드, 아콘소프트, 한국클라우드산업협회, 정보통신산업진흥원
+<img src="/assets/img/blog/2nd-conference/square_payment_icon_132877.png" width="25" height="35" style="border:0px;vertical-align:middle"> 후   원 : 과기정통부, 정보통신기획평가원
 
-&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="/assets/img/blog/2nd-conference/square_payment_icon_132877.png" width="25" height="35" style="border:0px;vertical-align:middle"> 후   원 : 과기정통부, 정보통신기획평가원
+<img src="/assets/img/blog/2nd-conference/square_payment_icon_132877.png" width="25" height="35" style="border:0px;vertical-align:middle"> 일   시 : 2020년 6월 3일(수) 14:00 ~ 18:00
 
-&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="/assets/img/blog/2nd-conference/square_payment_icon_132877.png" width="25" height="35" style="border:0px;vertical-align:middle"> 일   시 : 2020년 6월 3일(수) 14:00 ~ 18:00
+<img src="/assets/img/blog/2nd-conference/square_payment_icon_132877.png" width="25" height="35" style="border:0px;vertical-align:middle"> 행사 방식 : 공개 온라인 컨퍼런스(무료)
 
-&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="/assets/img/blog/2nd-conference/square_payment_icon_132877.png" width="25" height="35" style="border:0px;vertical-align:middle"> 행사 방식 : 공개 온라인 컨퍼런스(무료)
+- 온라인 공개 채널 : AllshowTV 채널, Youtube 및 Facebook 채널
 
-&nbsp;&nbsp;&nbsp;&nbsp;
-    - 온라인 공개 채널 : AllshowTV 채널, Youtube 및 Facebook 채널
+<img src="/assets/img/blog/2nd-conference/square_payment_icon_132877.png" width="25" height="35" style="border:0px;vertical-align:middle"> 참가 대상 : 클라우드 분야 종사자 또는 관련 기술에 관심이 있는 모든 분 
 
-&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="/assets/img/blog/2nd-conference/square_payment_icon_132877.png" width="25" height="35" style="border:0px;vertical-align:middle"> 참가 대상 : 클라우드 분야 종사자 또는 관련 기술에 관심이 있는 모든 분 
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="/assets/img/blog/2nd-conference/square_payment_icon_132877.png" width="25" height="35" style="border:0px;vertical-align:middle"> 행사 프로그램<BR>
+<img src="/assets/img/blog/2nd-conference/square_payment_icon_132877.png" width="25" height="35" style="border:0px;vertical-align:middle"> 행사 프로그램<BR>
 ![Alt text](/assets/img/blog/2nd-conference/barista_edm_01-edited-cut3.jpg)
 
 <BR>
@@ -102,5 +92,5 @@ Cloud-Barista 오픈 소스 커뮤니티를 통해 클라우드 분야 차기 �
 <span style="color:#557799"><img src="/assets/img/blog/2nd-conference/Youtube-Icon_22119.png" width="30" height="30" style="border:0px;vertical-align:middle">
 **행사 트레일러 동영상**</span>
 
-[![Contact to the Multi-Cloud](/assets/img/blog/2nd-conference/youtube-movie-clip3.png)](https://www.youtube.com/embed/fZbdXHUZ4A4?)
+[![Contact to the Multi-Cloud](/assets/img/blog/2nd-conference/youtube-movie-clip3.png)](https://www.youtube.com/embed/fZbdXHUZ4A4?autoplay=1)
 
