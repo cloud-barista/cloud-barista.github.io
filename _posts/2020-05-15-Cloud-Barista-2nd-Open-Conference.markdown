@@ -22,7 +22,7 @@ Cloud-Barista 오픈 소스 커뮤니티를 통해 클라우드 분야 차기 �
 <!--more-->
 
 <img src="/assets/img/blog/2nd-conference/square_payment_icon_132877.png" width="25" height="35" style="border:0px;vertical-align:middle"> 행 사 명 : Cloud-Barista Online Conference (The 2nd Event)
-- 부제 : “멀티 클라우드에 접속하다”(Contact to the Multi-Cloud)
+- 부제 : “멀티 클라우드에 접속하다(Contact to the Multi-Cloud).”
 
 <img src="/assets/img/blog/2nd-conference/square_payment_icon_132877.png" width="25" height="35" style="border:0px;vertical-align:middle"> 주   관 : 한국전자통신연구원, 메가존클라우드, 이노그리드, 아콘소프트, 한국클라우드산업협회, 정보통신산업진흥원
 
@@ -66,7 +66,7 @@ Cloud-Barista 오픈 소스 커뮤니티를 통해 클라우드 분야 차기 �
     <img src="/assets/img/blog/2nd-conference/Facebook-Icon_22115.png" width="25" height="25" style="border:0px;vertical-align:middle">
     Cloud-Barista 커뮤니티 Facebook 채널 [[바로가기]](http://fb.com/groups/570753216908482/ "Cloud-Barista 커뮤니티 Facebook 채널"){:target="_blank"}
 
-   > 커뮤니티 Youtube 및 Facebook 채널은 사전등록 없이 시청 가능합니다.
+   >> Youtube 및 Facebook 채널은 사전등록 없이 시청 가능합니다.
 
 
 <span style="color:#557799"><img src="/assets/img/blog/2nd-conference/Quora-Icon_22095.png" width="30" height="30" style="border:0px;vertical-align:middle">
@@ -79,10 +79,12 @@ Cloud-Barista 오픈 소스 커뮤니티를 통해 클라우드 분야 차기 �
 
     *	E-mail : contact-to-cloud-barista@googlegroups.com
 
+<BR>
+
 <span style="color:#557799"><img src="/assets/img/blog/2nd-conference/Github-Icon_22102.png" width="30" height="30" style="border:0px;vertical-align:middle">
 **소스 코드 공개 안내**</span>
 
-   > Cloud-Barista 2nd 버전(Cappuccino) 소스코드 및 관련 문서는 본 홈페이지 및 github(github.com/cloud-barista)를 통해 공유해드릴 예정입니다.
+   >> Cloud-Barista 2nd 버전(Cappuccino) 소스코드 및 관련 문서는 본 홈페이지 및 github(github.com/cloud-barista)를 통해 공유해드릴 예정입니다.
 
 <BR>
 
