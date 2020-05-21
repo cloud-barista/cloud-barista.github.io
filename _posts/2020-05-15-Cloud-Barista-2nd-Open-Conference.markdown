@@ -21,6 +21,8 @@ Cloud-Barista 오픈 소스 커뮤니티를 통해 클라우드 분야 차기 �
 여러분들의 많은 관심과 참여를 부탁드립니다.
 <!--more-->
 
+<BR>
+
 <img src="/assets/img/blog/2nd-conference/square_payment_icon_132877.png" width="25" height="35" style="border:0px;vertical-align:middle"> 행 사 명 : Cloud-Barista Online Conference (The 2nd Event)
 - 부제 : “멀티 클라우드에 접속하다(Contact to the Multi-Cloud).”
 
@@ -45,7 +47,7 @@ Cloud-Barista 오픈 소스 커뮤니티를 통해 클라우드 분야 차기 �
 
 -	전자신문사 등록 페이지 [[바로가기]](http://www.allshowtv.com/member/index.html?idx=199 "전자신문사 등록 페이지"){:target="_blank"}
 
-    ![Alt text](/assets/img/blog/2nd-conference/barista_edm_02-cut2.jpg)
+    ![Alt text](/assets/img/blog/2nd-conference/barista_edm_02-cut2.jpg)(http://www.allshowtv.com/member/index.html?idx=199){:target="_blank"}
 
 <BR>
 
