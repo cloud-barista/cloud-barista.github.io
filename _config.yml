@@ -36,6 +36,10 @@ collections:
 social:
   - title: github
     url: http://github.com/cloud-barista
+  - title: youtube
+    url: https://www.youtube.com/channel/UCU3B9kvSIASO8VzpfBNoh7w
+  - title: facebook
+    url: http://fb.com/groups/570753216908482/
   - title: slack
     url: https://cloud-barista.slack.com/
   - title: slideshare
