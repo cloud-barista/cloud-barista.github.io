@@ -91,6 +91,6 @@ Cloud-Barista 오픈 소스 커뮤니티를 통해 클라우드 분야 차기 �
 <BR>
 
 <span style="color:#557799"><img src="/assets/img/blog/2nd-conference/Youtube-Icon_22119.png" width="30" height="30" style="border:0px;vertical-align:middle">
-**오픈 컨퍼런스 트레일러 동영상**</span>
+**2nd 오픈 컨퍼런스 트레일러 동영상**</span>
 
 {% include youtube-embeded1.html id="fZbdXHUZ4A4" %}
