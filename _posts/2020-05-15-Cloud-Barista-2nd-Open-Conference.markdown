@@ -76,7 +76,7 @@ Cloud-Barista 오픈 소스 커뮤니티를 통해 클라우드 분야 차기 �
 <span style="color:#557799"><img src="/assets/img/blog/2nd-conference/Quora-Icon_22095.png" width="30" height="30" style="border:0px;vertical-align:middle">
 **행사 문의 연락처**</span>
  
-    *	행사 운영 사무국 전화 : 070-8730-2343 / E-mail : lys@kcloud.or.kr
+    *	행사 운영사무국 전화 : 070-8730-2343 / E-mail : lys@kcloud.or.kr
 
 <BR>
 
