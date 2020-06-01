@@ -87,6 +87,7 @@ Cloud-Barista 오픈 소스 커뮤니티를 통해 클라우드 분야 차기 �
 
     *	E-mail : contact-to-cloud-barista@googlegroups.com
 
+
 <BR>
 
 <span style="color:#557799"><img src="/assets/img/blog/2nd-conference/Github-Icon_22102.png" width="30" height="30" style="border:0px;vertical-align:middle">
