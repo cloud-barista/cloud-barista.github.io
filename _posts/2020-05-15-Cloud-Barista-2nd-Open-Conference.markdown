@@ -47,7 +47,9 @@ Cloud-Barista 오픈 소스 커뮤니티를 통해 클라우드 분야 차기 �
 
 -	전자신문사 등록 페이지 [[바로가기]](http://www.allshowtv.com/member/index.html?idx=199 "전자신문사 등록 페이지"){:target="_blank"}
 
-    [![Alt text](/assets/img/blog/2nd-conference/barista_edm_02-cut2.jpg)](http://www.allshowtv.com/member/index.html?idx=199){:target="_blank"}
+   > 6월 2일까지 사전등록하신 분들께는 6월 3일 오전에 발표집 파일을 송부해드릴 예정입니다.
+
+[![Alt text](/assets/img/blog/2nd-conference/barista_edm_02-cut2.jpg)](http://www.allshowtv.com/member/index.html?idx=199){:target="_blank"}
 
 <BR>
 
