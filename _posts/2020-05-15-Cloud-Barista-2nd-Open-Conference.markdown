@@ -93,7 +93,7 @@ Cloud-Barista 오픈 소스 커뮤니티를 통해 클라우드 분야 차기 �
 **소스 코드 공개 안내**</span>
 
    > Cloud-Barista 2nd 버전(Cappuccino) 소스코드 및 관련 문서는 [본 홈페이지](https://cloud-barista.github.io/download/ "본 홈페이지 Download 메뉴"){:target="_blank"}
-    및 [Cloud-Barista Github](https://github.com/cloud-barista "Cloud-Barista Github"){:target="_blank"}를 통해 공유해드릴 예정입니다.
+    및 [Cloud-Barista Github](https://github.com/cloud-barista/release "Cloud-Barista Github"){:target="_blank"}를 통해 공유해드릴 예정입니다.
 
 <BR>
 
