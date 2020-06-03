@@ -66,7 +66,7 @@ Cloud-Barista 오픈 소스 커뮤니티를 통해 클라우드 분야 차기 �
 
 &nbsp;&nbsp;&nbsp;&nbsp;
     [<img src="/assets/img/blog/2nd-conference/Youtube-Icon_22119.png" width="30" height="30" style="border:0px;vertical-align:middle">
-    <span style = "font-size:1.1em;  color: #0366CC;"> Cloud-Barista 커뮤니티 Youtube 채널</span>](https://www.youtube.com/channel/UCU3B9kvSIASO8VzpfBNoh7w "Cloud-Barista 커뮤니티 Youtube 채널"){:target="_blank"}<BR>
+    <span style = "font-size:1.1em;  color: #0366CC;"> Cloud-Barista 커뮤니티 Youtube 채널</span>](https://www.youtube.com/watch?v=tx7vvGHTPKA "Cloud-Barista 커뮤니티 Youtube 채널"){:target="_blank"}<BR>
 
 &nbsp;&nbsp;&nbsp;&nbsp;
     [<img src="/assets/img/blog/2nd-conference/Facebook-Icon_22115.png" width="30" height="30" style="border:0px;vertical-align:middle">
