@@ -38,7 +38,7 @@ Cloud-Barista 오픈 소스 커뮤니티를 통해 클라우드 분야 차기 �
 <img src="/assets/img/blog/2nd-conference/square_payment_icon_132877.png" width="25" height="35" style="border:0px;vertical-align:middle"> 참가 대상 : 클라우드 분야 종사자 또는 관련 기술에 관심이 있는 모든 분 
 
 <img src="/assets/img/blog/2nd-conference/square_payment_icon_132877.png" width="25" height="35" style="border:0px;vertical-align:middle"> 행사 프로그램<BR>
-![Alt text](/assets/img/blog/2nd-conference/barista_edm_01-edited2-cut2.jpg)
+![Alt text](/assets/img/blog/2nd-conference/barista_edm_02-edited2-cut.jpg)
 
 <BR>
 
