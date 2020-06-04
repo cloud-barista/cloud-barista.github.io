@@ -70,7 +70,7 @@ Cloud-Barista 오픈 소스 커뮤니티를 통해 클라우드 분야 차기 �
 
 &nbsp;&nbsp;&nbsp;&nbsp;
     [<img src="/assets/img/blog/2nd-conference/Facebook-Icon_22115.png" width="30" height="30" style="border:0px;vertical-align:middle">
-    <span style = "font-size:1.1em;  color: #0366CC"> Cloud-Barista 커뮤니티 Facebook 채널</span>](https://www.facebook.com/Cloud-Barista-Community-103500041371503/?modal=admin_todo_tour "Cloud-Barista 커뮤니티 Facebook 채널"){:target="_blank"}
+    <span style = "font-size:1.1em;  color: #0366CC"> Cloud-Barista 커뮤니티 Facebook 채널</span>](https://www.facebook.com/Cloud-Barista-Community-103500041371503/ "Cloud-Barista 커뮤니티 Facebook 채널"){:target="_blank"}
 
    > Youtube 및 Facebook 채널은 사전등록 없이 시청 가능합니다.
 
