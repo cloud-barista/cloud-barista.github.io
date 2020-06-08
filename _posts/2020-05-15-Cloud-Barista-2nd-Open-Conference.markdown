@@ -15,13 +15,13 @@ categories:
 Cloud-Barista 오픈 소스 커뮤니티를 통해 클라우드 분야 차기 트랜드의 일환인 멀티 클라우드 기술로서 Cloud-Barista 개발이 진행되고 있습니다.
 <BR>
 
-많은 분들이 참여해주신 지난 2019년 11월 Cloud-Barista 1차 공개 행사에 이어, 아래와 같이 오는 6월 3일(수)에 2차 공개 행사로서 ‘**Cloud-Barista Online Conference**‘가 진행될 예정입니다.
+많은 분들이 참여해주신 지난 2019년 11월 Cloud-Barista 1차 공개 행사에 이어, 아래와 같이 오는 6월 3일(수)에 2차 공개 행사로서 ‘**Cloud-Barista 2nd Opne Conference**‘가 진행될 예정입니다.
 
-이번 Cloud-Barista 커뮤니티 제2회 오픈 컨퍼런스는 무료 온라인 행사로 진행될 예정이오니
+이번 Cloud-Barista 커뮤니티 제2회 오픈 컨퍼런스는 **무료 온라인** 행사로 진행될 예정이오니
 여러분들의 많은 관심과 참여를 부탁드립니다.
 <!--more-->
 
-<img src="/assets/img/blog/2nd-conference/square_payment_icon_132877.png" width="25" height="35" style="border:0px;vertical-align:middle"> 행 사 명 : Cloud-Barista Online Conference (The 2nd Event)
+<img src="/assets/img/blog/2nd-conference/square_payment_icon_132877.png" width="25" height="35" style="border:0px;vertical-align:middle"> 행 사 명 : Cloud-Barista 2nd Open Conference
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* 부제 : “멀티 클라우드에 접속하다(Contact to the Multi-Cloud).”
 
