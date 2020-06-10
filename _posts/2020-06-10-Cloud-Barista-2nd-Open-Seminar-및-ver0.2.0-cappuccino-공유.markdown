@@ -12,20 +12,20 @@ categories:
 <style>
     table{
         border-collapse: collapse;
-        border-spacing: 3;
+        border-spacing: 4;
         border:0px solid #777777;
     }
 
     th{
-        border:1px solid #777777;
+        border:0px solid #777777;
     }
 
     td{
-        border:1px solid #777777;
+        border:0px solid #777777;
     }
 </style>
 
-##### Cloud-Barista 2차 오픈 컨퍼런스 행사를 성황리에 마쳤습니다.
+#### Cloud-Barista 2차 오픈 컨퍼런스 행사를 성황리에 마쳤습니다.
 <BR>
 지난 2020년 6월 3에 Cloud-Barista Community 주관으로 Cloud-Barista Community 2nd Open Conference로서 온라인으로 각 프레임워크별 발표와 Cappuccino 버전 release 행사가 진행되었습니다.<BR>
 여러분들의 많은 참여와 관심에 진심으로 감사드립니다.
@@ -78,6 +78,6 @@ categories:
 
 <BR>
 
-##### 2020년도에도 하반기에 3차 오픈 컨퍼런스가 진행될 예정이니 많은 관심 부탁드립니다.
+#### 2020년도에도 하반기에 3차 오픈 컨퍼런스가 진행될 예정이니 많은 관심 부탁드립니다.
 
 * (참고) [Cloud-Barista Community Open Seminar Milestone](https://cloud-barista.github.io/community/ "Cloud-Barista Open Seminar Milestone"){:target="_blank"}
