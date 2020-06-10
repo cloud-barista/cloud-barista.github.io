@@ -13,15 +13,15 @@ categories:
     table{
         border-collapse: collapse;
         border-spacing: 4;
-        border:0px solid #777777;
+        border:0px solid #AAAAAA;
     }
 
     th{
-        border:1px solid #777777;
+        border:0px solid #AAAAAA;
     }
 
     td{
-        border:1px solid #777777;
+        border:1px solid #AAAAAA;
     }
 </style>
 
@@ -29,7 +29,9 @@ categories:
 <BR>
 지난 2020년 6월 3에 Cloud-Barista Community 주관으로 Cloud-Barista Community 2nd Open Conference로서 온라인으로 각 프레임워크별 발표와 Cappuccino 버전 release 행사가 진행되었습니다.<BR>
 여러분들의 많은 참여와 관심에 진심으로 감사드립니다.
+
 <BR>
+
 아래와 같이, 각 프레임워크별 발표 자료 파일과 발표 영상, 소스 코드를 공유해드립니다.
 <!--more-->
 
