@@ -12,16 +12,16 @@ categories:
 <style>
     table{
         border-collapse: collapse;
-        border-spacing: 0;
-        border:2px solid #ff0000;
+        border-spacing: 2;
+        border:1px solid #333333;
     }
 
     th{
-        border:2px solid #000000;
+        border:1px solid #333333;
     }
 
     td{
-        border:1px solid #000000;
+        border:1px solid #333333;
     }
 </style>
 
@@ -79,5 +79,4 @@ categories:
 
 #### 2020년도에도 하반기에 3차 오픈 컨퍼런스가 진행될 예정이니 많은 관심 부탁드립니다.
 
-* (참고) Cloud-Barista Community Open Seminar Milestone
-[[바로가기]](https://cloud-barista.github.io/community/ "Cloud-Barista Open Seminar Milestone"){:target="_blank"}
+* (참고) [Cloud-Barista Community Open Seminar Milestone](https://cloud-barista.github.io/community/ "Cloud-Barista Open Seminar Milestone"){:target="_blank"}
