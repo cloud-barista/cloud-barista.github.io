@@ -66,11 +66,3 @@ categories:
 
 * (참고) Cloud-Barista Community Open Seminar Milestone
 [[바로가기]](https://cloud-barista.github.io/community/ "Cloud-Barista Open Seminar Milestone"){:target="_blank"}
-
-
-
-| Left-Aligned  | Center Aligned  | Right Aligned |
-| :------------ |:---------------:| -----:|
-| col 3 is      | some wordy text | $1600 |
-| col 2 is      | centered        |   $12 |
-| zebra stripes | are neat        |    $1 |
