@@ -17,11 +17,11 @@ categories:
     }
 
     th{
-        border:0px solid #777777;
+        border:1px solid #777777;
     }
 
     td{
-        border:0px solid #777777;
+        border:1px solid #777777;
     }
 </style>
 
