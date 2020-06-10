@@ -2,7 +2,7 @@
 layout: post
 title: Blog
 post_title: "[공지] Cloud-Barista ver0.2.0-cappuccino를 공유해드립니다"
-date: 2019-12-23 20:55:33
+date: 2020-06-10 20:55:33
 author: 오병택
 categories: 
 - 공지
