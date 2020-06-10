@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Blog
-post_title: "[공지] Cloud-Barista ver0.1-americano를 공유해드립니다"
+post_title: "[공지] Cloud-Barista ver0.1.0-americano를 공유해드립니다"
 date: 2019-12-23 10:50:52
 author: 오병택
 categories: 
@@ -36,14 +36,14 @@ Cloud-Barista Community 1st Open Seminar와 관련하여, 세미나 발표자료
 * Cloud-Barista Americano 버전 Open Seminar 프로그램 및 발표자료	
 [[바로가기]](https://github.com/cloud-barista/docs/tree/master/openseminar/americano "행사 프로그램 및 발표자료"){:target="_blank"}
 
-* Cloud-Barista ver0.1-americano 소스코드
-[[바로가기]](https://github.com/cloud-barista/release/tree/master/americano/src "Cloud-Barista ver0.1-americano 소스코드"){:target="_blank"}
+* Cloud-Barista ver0.1.0-americano 소스코드
+[[바로가기]](https://github.com/cloud-barista/release/tree/master/americano/src "Cloud-Barista ver0.1.0-americano 소스코드"){:target="_blank"}
 
-* Cloud-Barista ver0.1-americano 설치가이드
-[[바로가기]](https://github.com/cloud-barista/release/blob/master/americano/README.md "Cloud-Barista ver0.1-americano 설치가이드"){:target="_blank"}
+* Cloud-Barista ver0.1.0-americano 설치가이드
+[[바로가기]](https://github.com/cloud-barista/release/blob/master/americano/README.md "Cloud-Barista ver0.1.0-americano 설치가이드"){:target="_blank"}
 
-* Cloud-Barista ver0.1-americano 기술문서
-[[바로가기]](https://github.com/cloud-barista/release/tree/master/americano/docs "Cloud-Barista ver0.1-americano 기술문서"){:target="_blank"}
+* Cloud-Barista ver0.1.0-americano 기술문서
+[[바로가기]](https://github.com/cloud-barista/release/tree/master/americano/docs "Cloud-Barista ver0.1.0-americano 기술문서"){:target="_blank"}
 
 <BR>
 
