@@ -13,15 +13,15 @@ categories:
     table{
         border-collapse: collapse;
         border-spacing: 4;
-        border:0px solid #AAAAAA;
+        border:0px solid #CCCCCC;
     }
 
     th{
-        border:0px solid #AAAAAA;
+        border:1px solid #CCCCCC;
     }
 
     td{
-        border:1px solid #AAAAAA;
+        border:1px solid #CCCCCC;
     }
 </style>
 
