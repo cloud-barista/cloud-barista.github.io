@@ -22,6 +22,7 @@ categories:
 
     td{
         border:1px solid #CCCCCC;
+        padding: 5px;
     }
 </style>
 
