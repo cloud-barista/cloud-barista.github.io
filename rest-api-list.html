@@ -11,13 +11,18 @@ permalink: /rest-api/
         <div class="col-lg-8">
             <div class="hline"></div>
 
-            {% for redirect in site.pages %}
+            {% for page in site.pages %}
+
+                {% if page.title == "REST-API" %}
+
                 <!-- Blog Post -->
                 <a href="{{ redirect.permalink | prepend: site.baseurl }}"><h3 class="ctitle">{{ redirect.permalink }}</h3></a>
                 <!--p><csmall>{{ post.date | date: "%b %-d, %Y" }}. | By: {{ post.author }}</csmall></p>
                 {{ post.excerpt }}
                 <p><a href="{{ post.url | prepend: site.baseurl }}">[Read More]</a></p-->
                 <div class="hline"></div>
+
+                {% endif %}
 
                 <div class="spacing"></div>
             {% endfor %}
