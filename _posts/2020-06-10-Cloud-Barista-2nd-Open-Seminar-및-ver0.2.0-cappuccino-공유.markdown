@@ -12,7 +12,7 @@ categories:
 <style>
     table{
         border-collapse: collapse;
-        border-spacing: 5;
+        border-spacing: 5px;
         border:0px solid #CCCCCC;
     }
 
