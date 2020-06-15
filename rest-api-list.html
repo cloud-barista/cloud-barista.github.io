@@ -11,13 +11,9 @@ permalink: /rest-api/
         <div class="col-lg-8">
 
             {% for page in site.pages %}
-                {% if page.title == "REST-API" and page.api-version == "v0.1.0" %}
-                <h4>REST API version : v0.1.0</h4>
-                <!-- Blog Post -->
-                <a href="{{ page.permalink | prepend: site.baseurl }}"><h3>{{ page.permalink }}</h3></a>
-                <!--p><csmall>{{ post.date | date: "%b %-d, %Y" }}. | By: {{ post.author }}</csmall></p>
-                {{ post.excerpt }}
-                <p><a href="{{ post.url | prepend: site.baseurl }}">[Read More]</a></p-->
+                {% if page.title == "REST-API" and page.api-version == "v0.2.0" %}
+                <h4>[ REST API version : v0.2.0 ]</h4>
+                <a href="{{ page.permalink | prepend: site.baseurl }}" target="_Blank"><h5 class="ctitle">{{ page.permalink }}</h5></a>
                 <div class="hline"></div>
                 {% endif %}
 
@@ -25,13 +21,9 @@ permalink: /rest-api/
             {% endfor %}
 
             {% for page in site.pages %}
-                {% if page.title == "REST-API" and page.api-version == "v0.2.0" %}
-                <h4>REST API version : v0.2.0</h4>
-                <!-- Blog Post -->
-                <a href="{{ page.permalink | prepend: site.baseurl }}"><h3>{{ page.permalink }}</h3></a>
-                <!--p><csmall>{{ post.date | date: "%b %-d, %Y" }}. | By: {{ post.author }}</csmall></p>
-                {{ post.excerpt }}
-                <p><a href="{{ post.url | prepend: site.baseurl }}">[Read More]</a></p-->
+                {% if page.title == "REST-API" and page.api-version == "v0.1.0" %}
+                <h4>[ REST API version : v0.1.0 ]</h4>
+                <a href="{{ page.permalink | prepend: site.baseurl }}" target="_Blank"><h5 class="ctitle">{{ page.permalink }}</h5></a>
                 <div class="hline"></div>
                 {% endif %}
 
