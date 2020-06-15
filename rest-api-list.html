@@ -1,0 +1,28 @@
+---
+layout: rest-api
+title: REST-API list
+permalink: /rest-api/
+---
+
+<div class="container mtb">
+    <div class="row">
+
+        <!-- BLOG POSTS LIST -->
+        <div class="col-lg-8">
+            <div class="hline"></div>
+
+            {% for post in site.posts %}
+                <!-- Blog Post -->
+                <a href="{{ redirect.permalink | prepend: site.baseurl }}"><h3 class="ctitle">{{ redirect.permalink }}</h3></a>
+                <!--p><csmall>{{ post.date | date: "%b %-d, %Y" }}. | By: {{ post.author }}</csmall></p-->
+                {{ post.excerpt }}
+                <!--p><a href="{{ post.url | prepend: site.baseurl }}">[Read More]</a></p-->
+                <div class="hline"></div>
+
+                <div class="spacing"></div>
+            {% endfor %}
+
+        </div><!--/col-lg-8 -->
+
+    </div><!--/row -->
+</div><!--/container -->
