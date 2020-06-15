@@ -9,15 +9,15 @@ permalink: /rest-api/
 
         <!-- BLOG POSTS LIST -->
         <div class="col-lg-8">
-            <h4>[ REST API version : v0.2.0 ]</h4>
+            <h4>[ REST API version : v0.2.0 ]</h4><P>
             {% for page in site.pages %}
                 {% if page.title == "REST-API" and page.api-version == "v0.2.0" %}
                 <a href="{{ page.permalink | prepend: site.baseurl }}" target="_Blank"><h5 class="ctitle">{{ page.permalink }}</h5></a>
                 {% endif %}
-             {% endfor %}
+            {% endfor %}
              <div class="hline"></div>
              <div class="spacing"></div>
-            <h4>[ REST API version : v0.1.0 ]</h4>
+            <h4>[ REST API version : v0.1.0 ]</h4><P>
             {% for page in site.pages %}
                 {% if page.title == "REST-API" and page.api-version == "v0.1.0" %}
                 <a href="{{ page.permalink | prepend: site.baseurl }}" target="_Blank"><h5 class="ctitle">{{ page.permalink }}</h5></a>
