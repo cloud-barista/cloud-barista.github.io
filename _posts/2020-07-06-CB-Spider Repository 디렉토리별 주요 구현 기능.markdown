@@ -13,7 +13,7 @@ categories:
 
 Cloud-Barista 멀티 클라우드 인프라 연동 프레임워크(CB-Spider)는 Cloud-Barista 시스템에서 이러한 이종 클라우드 연동의 어려운 문제를 해결하기 위한 클라우드 연동 공통 프레임워크이며, 사용자 및 Cloud-Barista 타 서브시스템에게 서로 다른 클라우드 인프라에 대한 단일 방식의 연동 및 제어 관리가 가능한 API를 제공한다.
 
-본 게시글은 이러한 CB-Spider를 통해 추가로 CSP 연동이 필요할때 참고할 수 있도록 CB-Spider github repository(https://github.com/cloud-barista/cb-spider) 의 구성 디렉토리 및 주요 기능을 설명하기 위한 것이다.
+본 게시글은 이러한 CB-Spider를 통해 추가로 CSP 연동이 필요할때 참고할 수 있도록 CB-Spider github repository([https://github.com/cloud-barista/cb-spider](https://github.com/cloud-barista/cb-spider "https://github.com/cloud-barista/cb-spider"){:target="_blank"}) 의 구성 디렉토리 및 주요 기능을 설명하기 위한 것이다.
 <!--more-->
 
 <BR>
