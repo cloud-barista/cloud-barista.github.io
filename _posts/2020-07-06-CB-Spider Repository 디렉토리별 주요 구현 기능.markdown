@@ -23,38 +23,36 @@ Cloud-Barista 멀티 클라우드 인프라 연동 프레임워크(CB-Spider)는
 #### */setup.env*
 
 - spider 운영에 필요한 환경변수 세팅
-
 	- CBSPIDER_ROOT, CBSTORE_ROOT, CBLOG_ROOT의 경로 및 PLUGIN_SW ON/OFF 를 환경변수로 설정함.
 	- 환경변수중 PLUGIN_SW=ON 으로 설정된 경우, CSP별 driver가 각각 build되고 plugin 방식으로(동적으로) driver를 추가할 수 있음.
-
 		- (OFF 사용 경우 예) OFF mode로 설정하고 build하여 Android 환경에서 사용 가능
 
 - 환경변수 반영 위해 개발/테스트시 먼저 source ./setup.env 실행 필요
 
+<BR>
 #### */go.mod*
 
 - Go 패키지 모음
 - Build에 필요한 각각의 디펜던시 정의(import 필요한 module들의 path)
 
+<BR>
 #### */conf/*
 
 - CB-Spider 운영을 위한 설정 정보
-
 	- Spider 설정, 메타 정보 관리 설정, 로그 설정 등
 
+<BR>
 #### */meta_db/*
 
 - 기능
-
 	- 메타 정보 local FS(nutsdb) 활용시 저장소 위치
 
 - 저장 DB 종류 및 위치 설정
-
 	- /cb-store/conf/store_conf.yaml 에서 설정
 	- nutsdb or etcd 세팅
 
+<BR>
 #### */Dockerfile*
-
 - Docker image build 실행용
 
 <BR>
@@ -314,4 +312,4 @@ Cloud-Barista 멀티 클라우드 인프라 연동 프레임워크(CB-Spider)는
 
 - */vm-ssh/*
    - **Private key 혹은 private key path를 이용해, VM에 SSH로 파일 copy 및 script 실행 기능을 하는 util**
-   - 참고 : 이 util을 편리하게 이용할 수 있는 기능 함수는 ~/cloud-barista/poc-specialized_services/vm-ssh-util/ 에 구현되어 있음.
+   - 참고 : 이 util을 편리하게 이용할 수 있는 기능 함수는 [~/cloud-barista/poc-specialized_services/vm-ssh-util/](https://github.com/cloud-barista/poc-specialized_services/tree/master/vm-ssh-util "https://github.com/cloud-barista/poc-specialized_services/tree/master/vm-ssh-util"){:target="_blank"} 에 구현되어 있음.
