@@ -9,19 +9,16 @@ categories:
 - CB-Spider
 - 개발
 ---
-
-## CB-Spider Repository 디렉토리별 주요 구현 기능
-
 멀티 클라우드 서비스 시스템을 개발하기 위해서는 CSP별로 API 및 인증 방법과 자원을 컨트롤하는 방법이 각각 달라 이종 클라우드 연동을 위해 복잡한 개발 및 시험 과정이 필요하다.
 
-Cloud-Barista 멀티 클라우드 인프라 연동 프레임워크(CB-Spider)는 Cloud-Barista 시스템에서 이러한 이종 클라우드 연동의 어려운 문제를 해결하기 위한 클라우드 연동 공통 프레임워크이며, 사용자 및 Cloud-Barista 타 서브시스템에게 서로 다른 클라우드 인프라에 대한 단일 방식의 연동 및 제어 관리 방법 등을 제공한다.
+Cloud-Barista 멀티 클라우드 인프라 연동 프레임워크(CB-Spider)는 Cloud-Barista 시스템에서 이러한 이종 클라우드 연동의 어려운 문제를 해결하기 위한 클라우드 연동 공통 프레임워크이며, 사용자 및 Cloud-Barista 타 서브시스템에게 서로 다른 클라우드 인프라에 대한 단일 방식의 연동 및 제어 관리가 가능한 API를 제공한다.
 
 본 게시글은 이러한 CB-Spider를 통해 추가로 CSP 연동이 필요할때 참고할 수 있도록 CB-Spider github repository(https://github.com/cloud-barista/cb-spider) 의 구성 디렉토리 및 주요 기능을 설명하기 위한 것이다.
 <!--more-->
 
-## [ 실행 환경 및 필요 go package path 세팅 ]
+### [ 실행 환경 및 필요 go package path 세팅 ]
 
-### */setup.env*
+#### */setup.env*
 
 - spider 운영에 필요한 환경변수 세팅
 
@@ -32,18 +29,18 @@ Cloud-Barista 멀티 클라우드 인프라 연동 프레임워크(CB-Spider)는
 
 - 환경변수 반영 위해 개발/테스트시 먼저 source ./setup.env 실행 필요
 
-### */go.mod*
+#### */go.mod*
 
 - Go 패키지 모음
 - Build에 필요한 각각의 디펜던시 정의(import 필요한 module들의 path)
 
-### */conf/*
+#### */conf/*
 
 - CB-Spider 운영을 위한 설정 정보
 
 	- Spider 설정, 메타 정보 관리 설정, 로그 설정 등
 
-### */meta_db/*
+#### */meta_db/*
 
 - 기능
 
@@ -54,15 +51,15 @@ Cloud-Barista 멀티 클라우드 인프라 연동 프레임워크(CB-Spider)는
 	- /cb-store/conf/store_conf.yaml 에서 설정
 	- nutsdb or etcd 세팅
 
-### */Dockerfile*
+#### */Dockerfile*
 
 - Docker image build 실행용
 
   
 
-## [ CB-Spider 주요 디렉토리 및 기능 ]
+### [ CB-Spider 주요 디렉토리 및 기능 ]
 
-### # REST API to Go Function 매핑 관계
+#### # REST API to Go Function 매핑 관계
 
 - 클라우드 연결 정보 관리 기능
 
@@ -182,7 +179,7 @@ Cloud-Barista 멀티 클라우드 인프라 연동 프레임워크(CB-Spider)는
 	
 	  
 
-### */api-runtime/*
+#### */api-runtime/*
 
 - */rest-runtime/*
 
@@ -261,19 +258,19 @@ Cloud-Barista 멀티 클라우드 인프라 연동 프레임워크(CB-Spider)는
 	
 	  
 
-### */build_all_driver_lib.sh*
+#### */build_all_driver_lib.sh*
 
 - 각각의 CSP 연결 driver를 한번의 실행 명령으로 build 하는 script
 
   
 
-### */cloud-driver-libs/*
+#### */cloud-driver-libs/*
 
 - Build된 각 CSP driver libray 위치(object 파일) 
 
   
 
-### */cloud-info-manager/*
+#### */cloud-info-manager/*
 
 - **구현된 function**
 
@@ -324,7 +321,7 @@ Cloud-Barista 멀티 클라우드 인프라 연동 프레임워크(CB-Spider)는
 		
 		  
 
-### */cloud-control-manager/*
+#### */cloud-control-manager/*
 
 - **구현된 function**
 - GetCloudConnection
@@ -351,11 +348,11 @@ Cloud-Barista 멀티 클라우드 인프라 연동 프레임워크(CB-Spider)는
 		
 	- */resources/*
 	- Cloud driver 'Resource' inferface 정의
-
+<BR>
 - */iid-manager/*
 - **Resource 관련 통합 ID(Integrated ID) 관리**
 	- IID C/R/U/D 기능 fuction 구현체
-	
+<BR>
 - */vm-ssh/*
 - **Private key 혹은 private key path를 이용해, VM에 SSH로 파일 copy 및 script 실행 기능을 하는 util**
 	- 참고
