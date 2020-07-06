@@ -15,6 +15,7 @@ Cloud-Barista 멀티 클라우드 인프라 연동 프레임워크(CB-Spider)는
 
 본 게시글은 이러한 CB-Spider를 통해 추가로 CSP 연동이 필요할때 참고할 수 있도록 CB-Spider github repository(https://github.com/cloud-barista/cb-spider) 의 구성 디렉토리 및 주요 기능을 설명하기 위한 것이다.
 <!--more-->
+<BR>
 
 ### [ 실행 환경 및 필요 go package path 세팅 ]
 
@@ -183,75 +184,65 @@ Cloud-Barista 멀티 클라우드 인프라 연동 프레임워크(CB-Spider)는
 
 - */rest-runtime/*
 
-	- */test/*
-- */connect-config/*
-		- 기능
-	
-			- CSP별 연결 정보 관리 기능 테스트
-	
-		- 관련 REST API
-	
-			- **실행 순서 준수**
-		- Cloud 연동 driver 등록
-			
-				- localhost:1024/spider/driver
-	
-			- Credential 정보 등록
-	
-				- localhost:1024/spider/credential
-	
-			- Region 정보 등록
-	
-				- localhost:1024/spider/region
-	
-			- Cloud connection config 생성
-	
-				- localhost:1024/spider/connectionconfig
-	
-			- **테스트 script : CPS명~-conn-config.sh**
-	
-		- */each-test/*
-- 기능
-			
-	
-	- Cloud별/각 자원별 생성 기능 시험 후 삭제 시험
-	
-- 자원 생성 순서
-			
-	
-	- VPC -> SecurityGroup -> KeyPair -> VM
-	
-- */full-test/*
-		- 기능
-	
-			- CSP별 자원 관리 전체 기능 시험(create -> list -> get -> delete)
-	
-		- 대상 자원
-	
-			- VPC, SecurityGroup, KeyPair, VM
-	
-		- (참고)
-	
-			- full_test.sh
-	
-				- CSP별 자원 관리 전체 기능 시험 script
-	
-		- **Cloud 연결 관리 REST API 사용 예 :** https://documenter.getpostman.com/view/9027676/SztG2R1W?version=latest
+  - */test/*
+    - */connect-config/*
+    		- 기능
+    	
+    			- CSP별 연결 정보 관리 기능 테스트
+    	
+    		- 관련 REST API
+    	
+    			- **실행 순서 준수**
+    		- Cloud 연동 driver 등록
+    			
+    				- localhost:1024/spider/driver
+    	
+    		- Credential 정보 등록
+    	
+    			- localhost:1024/spider/credential
+    	
+    		- Region 정보 등록
+    	
+    		  - localhost:1024/spider/region
+    	- Cloud connection config 생성
+    		
+    	  - localhost:1024/spider/connectionconfig
+    		- **테스트 script : CPS명~-conn-config.sh**
+    - */each-test/*
+      - 기능
+      	- Cloud별/각 자원별 생성 기능 시험 후 삭제 시험
+      - 자원 생성 순서
+      	- VPC -> SecurityGroup -> KeyPair -> VM
+    - */full-test/*
+    		- 기능
+    	
+    			- CSP별 자원 관리 전체 기능 시험(create -> list -> get -> delete)
+    	
+    	- 대상 자원
+    	
+    		- VPC, SecurityGroup, KeyPair, VM
+    	
+    	- (참고)
+    	
+    	  - full_test.sh
+    	
+    	  	- CSP별 자원 관리 전체 기능 시험 script
+    - **Cloud 연결 관리 REST API 사용 예 :** https://documenter.getpostman.com/view/9027676/SztG2R1W?version=latest
 
-	- */admin-web/*
-- 기능
-		
-	- CB-Spider admin web(개발 진행중인 상태임)
-			- 위의 REST API 기능 테스트에서와 같은 CSP별 연결 정보 등록을 간단히 UI로 진행할 수 있도록 지원하는 도구
-		- - Cloud 연동 driver 등록 기능
-			- - Credential 정보 등록 기능
-		- - Region 정보 등록 기능
-			- - Cloud connection config 등록 기능
-		
-	- 웹 접속 URL
-		
-		- http://localhost:1024/spider/adminweb
-	
+- */admin-web/*
+
+   - 기능
+     - CB-Spider admin web(개발 진행중인 상태임)
+     - 위의 REST API 기능 테스트에서와 같은 CSP별 연결 정보 등록을 간단히 UI로 진행할 수 있도록 지원하는 도구
+        - Cloud 연동 driver 등록 기능
+        - Credential 정보 등록 기능
+        - Region 정보 등록 기능
+        - Cloud connection config 등록 기능
+
+   - 웹 접속 URL
+
+     - http://localhost:1024/spider/adminweb
+
 - */grpc-runtime/*
 
 	- gRPC runtime 코드 위치(개발 진행중인 상태임)
@@ -324,37 +315,48 @@ Cloud-Barista 멀티 클라우드 인프라 연동 프레임워크(CB-Spider)는
 #### */cloud-control-manager/*
 
 - **구현된 function**
-- GetCloudConnection
-	- createImage
-	
+   - GetCloudConnection
+   - createImage
+
 - */cloud-driver/*
-- **Cloud driver packge 구현 디렉토리**
-	- */drivers/*
-	- **각 CSP의 연동 driver 실제 기능 구현 코드**
-	- */각 CSP명/*
-		- */connect/*
-		- 각 CSP의 자원(VPC, SecurityGroup, KeyPair, VM) handle을 위한 handler로 이루어짐.
-		
-		- */main/*
-	- 각 CSP의 자원(VPC, SecurityGroup, KeyPair, VM)을 handle 하는 실제 기능
-		
-	- */각 CSP명-plugin/*
-	- Plugin 방식으로(동적으로) 추가할 수 있는 driver 기능
-	
-	- */interfaces/*
-- **멀티 클라우드 연동 driver 공통 interface**
-		- */connect/*
-	- Cloud driver 'Connection' inferface 정의
-		
-	- */resources/*
-	- Cloud driver 'Resource' inferface 정의
-<BR>
+   - **Cloud driver packge 구현 디렉토리**
+
+   - */drivers/*
+
+      - **각 CSP의 연동 driver 실제 기능 구현 코드**
+      - */각 CSP명/*
+        - */connect/*
+          - 각 CSP의 자원(VPC, SecurityGroup, KeyPair, VM) handle을 위한 handler로 이루어짐.
+
+        - */main/*
+          - 각 CSP의 자원(VPC, SecurityGroup, KeyPair, VM)을 handle 하는 실제 기능
+
+      - */각 CSP명-plugin/*
+         - Plugin 방식으로(동적으로) 추가할 수 있는 driver 기능
+
+   - */interfaces/*
+
+      - **멀티 클라우드 연동 driver 공통 interface**
+      		
+      - */connect/*
+
+         - Cloud driver 'Connection' inferface 정의
+
+      - */resources/*
+
+         - Cloud driver 'Resource' inferface 정의
+
+<BR>           
+
 - */iid-manager/*
-- **Resource 관련 통합 ID(Integrated ID) 관리**
-	- IID C/R/U/D 기능 fuction 구현체
-<BR>
+   - **Resource 관련 통합 ID(Integrated ID) 관리**
+   	
+   - IID C/R/U/D 기능 fuction 구현체
+
+<BR>      
+
 - */vm-ssh/*
-- **Private key 혹은 private key path를 이용해, VM에 SSH로 파일 copy 및 script 실행 기능을 하는 util**
-	- 참고
-	
-	- 이 util을 편리하게 이용할 수 있는 기능 함수는 ~/cloud-barista/poc-specialized_services/vm-ssh-util/ 에 구현되어 있음.
+   - **Private key 혹은 private key path를 이용해, VM에 SSH로 파일 copy 및 script 실행 기능을 하는 util**
+   - 참고
+
+      - 이 util을 편리하게 이용할 수 있는 기능 함수는 ~/cloud-barista/poc-specialized_services/vm-ssh-util/ 에 구현되어 있음.
