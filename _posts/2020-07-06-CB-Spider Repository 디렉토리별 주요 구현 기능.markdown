@@ -15,6 +15,7 @@ Cloud-Barista 멀티 클라우드 인프라 연동 프레임워크(CB-Spider)는
 
 본 게시글은 이러한 CB-Spider를 통해 추가로 CSP 연동이 필요할때 참고할 수 있도록 CB-Spider github repository(https://github.com/cloud-barista/cb-spider) 의 구성 디렉토리 및 주요 기능을 설명하기 위한 것이다.
 <!--more-->
+
 <BR>
 
 ### [ 실행 환경 및 필요 go package path 세팅 ]
@@ -56,7 +57,7 @@ Cloud-Barista 멀티 클라우드 인프라 연동 프레임워크(CB-Spider)는
 
 - Docker image build 실행용
 
-  
+<BR>
 
 ### [ CB-Spider 주요 디렉토리 및 기능 ]
 
@@ -142,43 +143,37 @@ Cloud-Barista 멀티 클라우드 인프라 연동 프레임워크(CB-Spider)는
     - controlVM
   - localhost:1024/spider/sshrun
     - sshrun
+
   - 상세 매핑 내용은 */rest-runtime/* 디렉토리에 있는 CBSpiderRuntime.go, CCMRest.go 파일 참고
 
 - Admin 웹 기능
 
 	- 다음의 REST API를 call할때 */api-runtime/rest-runtime/admin-web/* 디렉토리에 있는 함수가 실행됨.
 	
-	- localhost:1024/spider/adminweb
-	  
+	- localhost:1024/spider/adminweb	  
 	  - Frame
 	  
-	- localhost:1024/spider/adminweb/top
-	  
+	- localhost:1024/spider/adminweb/top	  
 	  - Top
 	  
-	- localhost:1024/spider/adminweb/driver
-	  
+	- localhost:1024/spider/adminweb/driver	  
 	  - Driver
 	  
-	- localhost:1024/spider/adminweb/credential
-	  
+	- localhost:1024/spider/adminweb/credential	  
 	  - Credential
 	  
-	- localhost:1024/spider/adminweb/region
-	  
+	- localhost:1024/spider/adminweb/region	  
 	  - Region
 	  
-	- localhost:1024/spider/adminweb/connectionconfig
-	  
+	- localhost:1024/spider/adminweb/connectionconfig	  
 	  - Connectionconfig
 	  
-	- localhost:1024/spider/adminweb/spiderinfo
-	  
+	- localhost:1024/spider/adminweb/spiderinfo	  
 	  - SpiderInfo
 	  
 	- 상세 매핑 내용은 */rest-runtime/* 디렉토리에 있는 CBSpiderRuntime.go 파일 참고
 	
-	  
+<BR>
 
 #### */api-runtime/*
 
@@ -186,80 +181,60 @@ Cloud-Barista 멀티 클라우드 인프라 연동 프레임워크(CB-Spider)는
 
   - */test/*
     - */connect-config/*
-    		- 기능
-    	
-    			- CSP별 연결 정보 관리 기능 테스트
-    	
-    		- 관련 REST API
-    	
-    			- **실행 순서 준수**
-    		- Cloud 연동 driver 등록
-    			
-    				- localhost:1024/spider/driver
-    	
-    		- Credential 정보 등록
-    	
-    			- localhost:1024/spider/credential
-    	
-    		- Region 정보 등록
-    	
-    		  - localhost:1024/spider/region
-    	- Cloud connection config 생성
-    		
-    	  - localhost:1024/spider/connectionconfig
-    		- **테스트 script : CPS명~-conn-config.sh**
+      - 기능
+        - CSP별 연결 정보 관리 기능 테스트
+      - 관련 REST API
+        - **실행 순서 준수**
+        - Cloud 연동 driver 등록
+          - localhost:1024/spider/driver
+        - Credential 정보 등록
+          - localhost:1024/spider/credential
+        - Region 정보 등록
+          - localhost:1024/spider/region
+        - Cloud connection config 생성
+          - localhost:1024/spider/connectionconfig
+        - **테스트 script : CPS명~-conn-config.sh**
     - */each-test/*
       - 기능
       	- Cloud별/각 자원별 생성 기능 시험 후 삭제 시험
       - 자원 생성 순서
       	- VPC -> SecurityGroup -> KeyPair -> VM
     - */full-test/*
-    		- 기능
-    	
-    			- CSP별 자원 관리 전체 기능 시험(create -> list -> get -> delete)
-    	
-    	- 대상 자원
-    	
-    		- VPC, SecurityGroup, KeyPair, VM
+    	- 기능
+    		- CSP별 자원 관리 전체 기능 시험(create -> list -> get -> delete)
+     	- 대상 자원
+     		- VPC, SecurityGroup, KeyPair, VM
     	
     	- (참고)
-    	
     	  - full_test.sh
-    	
     	  	- CSP별 자원 관리 전체 기능 시험 script
     - **Cloud 연결 관리 REST API 사용 예 :** https://documenter.getpostman.com/view/9027676/SztG2R1W?version=latest
-
-- */admin-web/*
-
-   - 기능
-     - CB-Spider admin web(개발 진행중인 상태임)
-     - 위의 REST API 기능 테스트에서와 같은 CSP별 연결 정보 등록을 간단히 UI로 진행할 수 있도록 지원하는 도구
+<BR>
+  - */admin-web/*
+    - 기능
+      - CB-Spider admin web(개발 진행중인 상태임)
+      - 위의 REST API 기능 테스트에서와 같은 CSP별 연결 정보 등록을 간단히 UI로 진행할 수 있도록 지원하는 도구
         - Cloud 연동 driver 등록 기능
         - Credential 정보 등록 기능
         - Region 정보 등록 기능
         - Cloud connection config 등록 기능
-
-   - 웹 접속 URL
-
-     - http://localhost:1024/spider/adminweb
-
+    - 웹 접속 URL
+      - http://localhost:1024/spider/adminweb
+<BR>
 - */grpc-runtime/*
-
 	- gRPC runtime 코드 위치(개발 진행중인 상태임)
 	
-	  
+<BR>  
 
 #### */build_all_driver_lib.sh*
-
 - 각각의 CSP 연결 driver를 한번의 실행 명령으로 build 하는 script
 
-  
+<BR>  
 
 #### */cloud-driver-libs/*
-
 - Build된 각 CSP driver libray 위치(object 파일) 
 
-  
+<BR>  
 
 #### */cloud-info-manager/*
 
@@ -268,49 +243,38 @@ Cloud-Barista 멀티 클라우드 인프라 연동 프레임워크(CB-Spider)는
 	- listCloudOS
 
 - */connection-config-info-manager/*
-
 	- Cloud 연결 정보 관리 기능 구현
 	- **구현된 function**
-
 		- createConnectionConfig
 		- listConnectionConfig
 		- getConnectionConfig
 		- deleteConnectionConfig
 
 - */credential-info-manager/*
-
 	- Credential 정보 관리 기능 구현
 	- **구현된 function**
-
 		- registerCredential
 		- listCredential
 		- getCredential
 		- unRegisterCredential
 
 - */driver-info-manager/*
-
 	- Cloud 연동 driver 정보 관리 기능 구현
 	- **구현된 function**
-
 		- registerCloudDriver
 		- listCloudDriver
 		- getCloudDriver
 		- unRegisterCloudDriver
 
 - */region-info-manager/*
-
 	- Region 정보 관리 기능 구현
 	- **구현된 function**
-
 		- registerRegion
-		
 		- listRegion
-		
 		- getRegion
-		
 		- unRegisterRegion
 		
-		  
+<BR>		  
 
 #### */cloud-control-manager/*
 
@@ -322,7 +286,6 @@ Cloud-Barista 멀티 클라우드 인프라 연동 프레임워크(CB-Spider)는
    - **Cloud driver packge 구현 디렉토리**
 
    - */drivers/*
-
       - **각 CSP의 연동 driver 실제 기능 구현 코드**
       - */각 CSP명/*
         - */connect/*
@@ -335,28 +298,20 @@ Cloud-Barista 멀티 클라우드 인프라 연동 프레임워크(CB-Spider)는
          - Plugin 방식으로(동적으로) 추가할 수 있는 driver 기능
 
    - */interfaces/*
-
       - **멀티 클라우드 연동 driver 공통 interface**
-      		
       - */connect/*
-
-         - Cloud driver 'Connection' inferface 정의
-
+        - Cloud driver 'Connection' inferface 정의
       - */resources/*
-
-         - Cloud driver 'Resource' inferface 정의
+        - Cloud driver 'Resource' inferface 정의
 
 <BR>           
 
 - */iid-manager/*
    - **Resource 관련 통합 ID(Integrated ID) 관리**
-   	
    - IID C/R/U/D 기능 fuction 구현체
 
 <BR>      
 
 - */vm-ssh/*
    - **Private key 혹은 private key path를 이용해, VM에 SSH로 파일 copy 및 script 실행 기능을 하는 util**
-   - 참고
-
-      - 이 util을 편리하게 이용할 수 있는 기능 함수는 ~/cloud-barista/poc-specialized_services/vm-ssh-util/ 에 구현되어 있음.
+   - 참고 : 이 util을 편리하게 이용할 수 있는 기능 함수는 ~/cloud-barista/poc-specialized_services/vm-ssh-util/ 에 구현되어 있음.
