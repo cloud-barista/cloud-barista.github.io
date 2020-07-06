@@ -237,9 +237,8 @@ Cloud-Barista 멀티 클라우드 인프라 연동 프레임워크(CB-Spider)는
 #### */cloud-info-manager/*
 
 - **구현된 function**
-
 	- listCloudOS
-
+<BR>
 - */connection-config-info-manager/*
 	- Cloud 연결 정보 관리 기능 구현
 	- **구현된 function**
@@ -279,7 +278,7 @@ Cloud-Barista 멀티 클라우드 인프라 연동 프레임워크(CB-Spider)는
 - **구현된 function**
    - GetCloudConnection
    - createImage
-
+<BR>
 - */cloud-driver/*
    - **Cloud driver packge 구현 디렉토리**
 
@@ -312,4 +311,4 @@ Cloud-Barista 멀티 클라우드 인프라 연동 프레임워크(CB-Spider)는
 
 - */vm-ssh/*
    - **Private key 혹은 private key path를 이용해, VM에 SSH로 파일 copy 및 script 실행 기능을 하는 util**
-   - 참고 : 이 util을 편리하게 이용할 수 있는 기능 함수는 [~/cloud-barista/poc-specialized_services/vm-ssh-util/](https://github.com/cloud-barista/poc-specialized_services/tree/master/vm-ssh-util "https://github.com/cloud-barista/poc-specialized_services/tree/master/vm-ssh-util"){:target="_blank"} 에 구현되어 있음.
+   - 참고 : 이 util을 편리하게 이용할 수 있는 기능 함수는 [~/cloud-barista/poc-specialized_services/vm-ssh-util/SshUtil.go](https://github.com/cloud-barista/poc-specialized_services/blob/master/vm-ssh-util/SshUtil.go "https://github.com/cloud-barista/poc-specialized_services/blob/master/vm-ssh-util/SshUtil.go"){:target="_blank"} 에 구현되어 있음.
