@@ -27,7 +27,7 @@ Cloud-Barista 멀티 클라우드 인프라 연동 프레임워크(CB-Spider)는
 	- 환경변수중 PLUGIN_SW=ON 으로 설정된 경우, CSP별 driver가 각각 build되고 plugin 방식으로(동적으로) driver를 추가할 수 있음.
 		- (OFF 사용 경우 예) OFF mode로 설정하고 build하여 Android 환경에서 사용 가능
 
-- 환경변수 반영 위해 개발/테스트시 먼저 source ./setup.env 실행 필요
+- 환경변수 반영 위해 개발/테스트시 먼저 `source ./setup.env` 실행 필요
 
 <BR>
 #### */go.mod*
@@ -150,22 +150,16 @@ Cloud-Barista 멀티 클라우드 인프라 연동 프레임워크(CB-Spider)는
 	
 	- localhost:1024/spider/adminweb	  
 	  - Frame
-	  
 	- localhost:1024/spider/adminweb/top	  
 	  - Top
-	  
 	- localhost:1024/spider/adminweb/driver	  
 	  - Driver
-	  
 	- localhost:1024/spider/adminweb/credential	  
 	  - Credential
-	  
 	- localhost:1024/spider/adminweb/region	  
 	  - Region
-	  
 	- localhost:1024/spider/adminweb/connectionconfig	  
 	  - Connectionconfig
-	  
 	- localhost:1024/spider/adminweb/spiderinfo	  
 	  - SpiderInfo
 	  
@@ -181,8 +175,15 @@ Cloud-Barista 멀티 클라우드 인프라 연동 프레임워크(CB-Spider)는
     - */connect-config/*
       - 기능
         - CSP별 연결 정보 관리 기능 테스트
+
+      - 코드 build 및 서버 실행
+        - `export GO111MODULE="on"`
+        - `cd cb-spider/api-runtime/`
+        -	`make` 로 build 후에
+        - `./cb-spider` 로 서버 띄움  # 1024 포트 REST API Server, 50251 포트 gRPC Server 실행됨  
+
       - 관련 REST API
-        - **실행 순서 준수**
+        - **등록 순서 준수**
         - Cloud 연동 driver 등록
           - localhost:1024/spider/driver
         - Credential 정보 등록
@@ -206,7 +207,7 @@ Cloud-Barista 멀티 클라우드 인프라 연동 프레임워크(CB-Spider)는
     	- (참고)
     	  - full_test.sh
     	  	- CSP별 자원 관리 전체 기능 시험 script
-    - **Cloud 연결 관리 REST API 사용 예 :** https://documenter.getpostman.com/view/9027676/SztG2R1W?version=latest
+    - **Cloud 연결 관리 REST API 사용 예 :** [documenter.getpostman.com/view/9027676/SztG2R1W?version=latest](https://documenter.getpostman.com/view/9027676/SztG2R1W?version=latest "https://documenter.getpostman.com/view/9027676/SztG2R1W?version=latest"){:target="_blank"}
 <BR>
   - */admin-web/*
     - 기능
