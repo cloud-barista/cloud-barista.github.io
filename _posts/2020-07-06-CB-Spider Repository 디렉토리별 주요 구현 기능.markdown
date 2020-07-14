@@ -13,7 +13,7 @@ categories:
 
 Cloud-Barista 멀티 클라우드 인프라 연동 프레임워크(CB-Spider)는 Cloud-Barista 시스템에서 이러한 이종 클라우드 연동의 어려운 문제를 해결하기 위한 클라우드 연동 공통 프레임워크이며, 사용자 및 Cloud-Barista 타 서브시스템에게 서로 다른 클라우드 인프라에 대한 단일 방식의 연동 및 제어 관리가 가능한 API를 제공한다.
 
-본 게시글은 이러한 CB-Spider를 통해 추가로 CSP 연동이 필요할때 참고할 수 있도록 CB-Spider github repository([https://github.com/cloud-barista/cb-spider](https://github.com/cloud-barista/cb-spider "https://github.com/cloud-barista/cb-spider"){:target="_blank"}) 의 구성 디렉토리 및 주요 기능을 설명하기 위한 것이다.
+본 게시글은 이러한 CB-Spider를 통해 추가로 CSP 연동이 필요할때 참고할 수 있도록 CB-Spider github repository([github.com/cloud-barista/cb-spider](https://github.com/cloud-barista/cb-spider "https://github.com/cloud-barista/cb-spider"){:target="_blank"}) 의 구성 디렉토리 및 주요 기능을 설명하기 위한 것이다.
 <!--more-->
 
 <BR>
@@ -57,9 +57,7 @@ Cloud-Barista 멀티 클라우드 인프라 연동 프레임워크(CB-Spider)는
 
 <BR>
 
-### [ CB-Spider 주요 디렉토리 및 기능 ]
-
-#### # REST API to Go Function 매핑 관계
+### [ REST API to Go Function 매핑 관계 ]
 
 - 클라우드 연결 정보 관리 기능
 
@@ -167,7 +165,7 @@ Cloud-Barista 멀티 클라우드 인프라 연동 프레임워크(CB-Spider)는
 	
 <BR>
 
-#### # 주요 디렉토리 및 파일 설명
+### [ CB-Spider 주요 디렉토리 및 파일 기능 ]
 
 #### */build_all_driver_lib.sh*
 - 각각의 CSP 연결 driver를 한번의 실행 명령으로 build 하는 script
@@ -179,6 +177,14 @@ Cloud-Barista 멀티 클라우드 인프라 연동 프레임워크(CB-Spider)는
 <BR>
 
 #### */api-runtime/*
+- 코드 build 및 서버 구동 후 아래의 테스트를 진행할 수 있음.
+  - `cd cb-spider/api-runtime/`
+  - 아래의 두가지 방법으로 실행할 수 있음.  # 1024 포트로 REST API Server 구동됨
+    - 방법 1)
+      - `go run *.go` 실행 
+    - 방법 2)
+      -	`make` 로 build 후 `./cb-spider` 실행
+
 
 - */rest-runtime/*
 
@@ -186,12 +192,6 @@ Cloud-Barista 멀티 클라우드 인프라 연동 프레임워크(CB-Spider)는
     - */connect-config/*
       - 기능
         - CSP별 연결 정보 관리 기능 테스트
-
-      - 코드 build 및 서버 실행
-        - `export GO111MODULE="on"`
-        - `cd cb-spider/api-runtime/`
-        -	`make` 로 build 후에
-        - `./cb-spider` 로 서버 띄움  # 1024 포트 REST API Server 실행됨  
 
       - 관련 REST API
         - **등록 순서 준수**
