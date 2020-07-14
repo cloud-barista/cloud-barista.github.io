@@ -167,6 +167,17 @@ Cloud-Barista 멀티 클라우드 인프라 연동 프레임워크(CB-Spider)는
 	
 <BR>
 
+#### # 주요 디렉토리 및 파일 설명
+
+#### */build_all_driver_lib.sh*
+- 각각의 CSP 연결 driver를 한번의 실행 명령으로 build 하는 script
+  - cb-spider 서버를 띄우기 전에 실행 필요
+
+#### */cloud-driver-libs/*
+- Build된 각 CSP driver libray 위치(object 파일) 
+
+<BR>
+
 #### */api-runtime/*
 
 - */rest-runtime/*
@@ -180,7 +191,7 @@ Cloud-Barista 멀티 클라우드 인프라 연동 프레임워크(CB-Spider)는
         - `export GO111MODULE="on"`
         - `cd cb-spider/api-runtime/`
         -	`make` 로 build 후에
-        - `./cb-spider` 로 서버 띄움  # 1024 포트 REST API Server, 50251 포트 gRPC Server 실행됨  
+        - `./cb-spider` 로 서버 띄움  # 1024 포트 REST API Server 실행됨  
 
       - 관련 REST API
         - **등록 순서 준수**
@@ -223,16 +234,6 @@ Cloud-Barista 멀티 클라우드 인프라 연동 프레임워크(CB-Spider)는
 - */grpc-runtime/*
 	- gRPC runtime 코드 위치(개발 진행중인 상태임)
 	
-<BR>  
-
-#### */build_all_driver_lib.sh*
-- 각각의 CSP 연결 driver를 한번의 실행 명령으로 build 하는 script
-
-<BR>  
-
-#### */cloud-driver-libs/*
-- Build된 각 CSP driver libray 위치(object 파일) 
-
 <BR>  
 
 #### */cloud-info-manager/*
