@@ -30,18 +30,18 @@ categories:
 
 <center>
 <!-- Save for Web Slices (클라우드바리스타컨퍼런스_EDM_V7_EDM.jpg) -->
-<table width="800" height="1960" id="Table_01" border="0" cellspacing="0" cellpadding="0">
+<table width="765" height="1960" id="Table_01" border="0" cellspacing="0" cellpadding="0">
 	<tbody><tr>
 		<td>
-			<img width="800" height="533" style="display: block;" alt="" src="https://raw.githubusercontent.com/cloud-barista/cloud-barista.github.io/master/assets/img/blog/3rd-conference/edm_v7_edm_01.gif" border="0" usemap="#Map"></td>
+			<img width="765" height="533" style="display: block;" alt="" src="https://raw.githubusercontent.com/cloud-barista/cloud-barista.github.io/master/assets/img/blog/3rd-conference/edm_v7_edm_01.gif" border="0" usemap="#Map"></td>
 	</tr>
 	<tr>
 		<td>
-			<img width="800" height="1118" style="display: block;" alt="" src="https://raw.githubusercontent.com/cloud-barista/cloud-barista.github.io/master/assets/img/blog/3rd-conference/edm_v7_edm_02.gif"></td>
+			<img width="765" height="1118" style="display: block;" alt="" src="https://raw.githubusercontent.com/cloud-barista/cloud-barista.github.io/master/assets/img/blog/3rd-conference/edm_v7_edm_02.gif"></td>
 	</tr>
 	<tr>
 		<td>
-			<img width="800" height="309" style="display: block;" alt="" src="https://raw.githubusercontent.com/cloud-barista/cloud-barista.github.io/master/assets/img/blog/3rd-conference/edm_v7_edm_03.gif"></td>
+			<img width="765" height="309" style="display: block;" alt="" src="https://raw.githubusercontent.com/cloud-barista/cloud-barista.github.io/master/assets/img/blog/3rd-conference/edm_v7_edm_03.gif"></td>
 	</tr>
 </tbody></table>
 
@@ -49,7 +49,7 @@ categories:
 <!-- End Save for Web Slices -->
 
 <map name="Map">
-  <area href="https://www.allshowtv.com/detail.html?idx=424" shape="rect" coords="516,413,727,478" target="_blank">
+  <area href="https://www.allshowtv.com/detail.html?idx=424" shape="rect" coords="478,413,673,478" target="_blank">
 </map>
 
 <BR>
