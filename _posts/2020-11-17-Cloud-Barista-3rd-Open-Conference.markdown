@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Blog
-post_title: "[공지] Cloud-Barista 3rd 컨퍼런스(11/25, 수)에 초대합니다"
+post_title: "[공지] Cloud-Barista 3rd 오픈 컨퍼런스(11/25, 수)에 초대합니다"
 date: 2020-11-17 16:25:30
 author: 오병택
 categories: 
@@ -31,15 +31,15 @@ categories:
 <table width="760" id="Table_01" border="0" cellspacing="0" cellpadding="0">
 	<tbody><tr>
 		<td>
-			<img width="765" height="533" style="display: block;" alt="" src="/assets/img/blog/3rd-conference/edm_v7_edm_01.gif" border="0" usemap="#Map"></td>
+			<img width="760" height="533" style="display: block;" alt="" src="/assets/img/blog/3rd-conference/edm_v7_edm_01.gif" border="0" usemap="#Map"></td>
 	</tr>
 	<tr>
 		<td>
-			<img width="760" height="1118" style="display: block;" alt="" src="/assets/img/blog/3rd-conference/edm_v7_edm_02.gif" border="0"></td>
+			<img width="760" style="display: block;" alt="" src="/assets/img/blog/3rd-conference/promotion1.png" border="0"></td>
 	</tr>
 	<tr>
 		<td>
-			<img width="760" height="309" style="display: block;" alt="" src="/assets/img/blog/3rd-conference/edm_v7_edm_03.gif" border="0"></td>
+			<img width="760" style="display: block;" alt="" src="/assets/img/blog/3rd-conference/promotion2.png" border="0"></td>
 	</tr>
     </tbody>
 </table>
