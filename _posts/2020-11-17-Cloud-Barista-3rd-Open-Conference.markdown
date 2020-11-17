@@ -21,6 +21,7 @@ categories:
 오프라인에서 뵐 수 있는 그 날을 기대하며….
 <BR>
 <!--more-->
+
 감사합니다.<BR>
 
 (**사전 등록을 하시는 모든 분들께 행사 전 발표자료집 소프트카피를 송부하여 드릴 예정입니다.**)<BR>
@@ -35,11 +36,11 @@ categories:
 	</tr>
 	<tr>
 		<td>
-			<img width="760" style="display: block;" alt="" src="/assets/img/blog/3rd-conference/promotion1.png" border="0"></td>
+			<img width="760" height="1118" style="display: block;" alt="" src="/assets/img/blog/3rd-conference/edm_v7_edm_02.gif" border="0"></td>
 	</tr>
 	<tr>
 		<td>
-			<img width="760" style="display: block;" alt="" src="/assets/img/blog/3rd-conference/promotion2.png" border="0"></td>
+			<img width="760" height="309" style="display: block;" alt="" src="/assets/img/blog/3rd-conference/edm_v7_edm_03.gif" border="0"></td>
 	</tr>
     </tbody>
 </table>
