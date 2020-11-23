@@ -10,7 +10,7 @@ categories:
 - Cloud-Barista
 ---
 
-클라우드바리스타(Cloud-Barista) 커뮤니티가 어느덧 제3차 컨퍼런스(온라인)를 개최하게 되었습니다.
+클라우드바리스타(Cloud-Barista) 오픈 소스 커뮤니티가 어느덧 제3차 오픈 컨퍼런스(온라인)를 개최하게 되었습니다.
 <BR>
 
 금번 행사의 타이틀은 '**Journey to the Multi-Cloud**' 이며, Cloud-Barista의 세번째 버전인 '**에스프레소(Espresso)**'가 릴리즈될 예정입니다.
@@ -47,7 +47,7 @@ categories:
 </center>
 
 <map name="Map">
-  <area href="https://www.allshowtv.com/detail.html?idx=424" shape="rect" coords="485,400,690,460" target="_blank">
+  <area href="https://www.allshowtv.com/detail.html?idx=424" shape="rect" coords="517,414,722,470" target="_blank">
 </map>
 
 <BR>
@@ -60,7 +60,7 @@ categories:
 
 &nbsp;&nbsp;&nbsp;&nbsp;
     [<img src="/assets/img/blog/2nd-conference/Lastfm-Icon_22087.png" width="30" height="30" style="border:0px;vertical-align:middle">
-    <span style = "font-size:1.1em;  color: #0366CC;"> AllshowTV 채널</span>](http://www.allshowtv.com/detail.html?idx=424 "AllshowTV 채널"){:target="_blank"}<BR>
+    <span style = "font-size:1.1em;  color: #0366CC;"> AllshowTV 채널(사전 등록 및 시청)</span>](http://www.allshowtv.com/detail.html?idx=424 "AllshowTV 채널"){:target="_blank"}<BR>
 
 &nbsp;&nbsp;&nbsp;&nbsp;
     [<img src="/assets/img/blog/2nd-conference/Facebook-Icon_22115.png" width="30" height="30" style="border:0px;vertical-align:middle">
@@ -90,5 +90,5 @@ categories:
 <span style="color:#557799"><img src="/assets/img/blog/2nd-conference/Github-Icon_22102.png" width="30" height="30" style="border:0px;vertical-align:middle">
 **소스 코드 공개 안내**</span>
 
-   > Cloud-Barista 3rd 버전(Espresso) 소스코드 및 관련 문서는 온라인 행사 후 [본 홈페이지](https://cloud-barista.github.io/download/ "본 홈페이지 Download 메뉴"){:target="_blank"}
+   > Cloud-Barista 3rd 버전(Espresso) 소스 코드 및 관련 문서는 온라인 행사 후 [본 홈페이지](https://cloud-barista.github.io/download/ "본 홈페이지 Download 메뉴"){:target="_blank"}
     및 [Cloud-Barista Github](https://github.com/cloud-barista/cloud-barista "Cloud-Barista Github"){:target="_blank"}를 통해 공유해드릴 예정입니다.
