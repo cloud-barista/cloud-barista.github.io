@@ -47,7 +47,7 @@ categories:
 </center>
 
 <map name="Map">
-  <area href="https://www.allshowtv.com/detail.html?idx=424" shape="rect" coords="517,414,722,470" target="_blank">
+  <area href="https://www.allshowtv.com/detail.html?idx=424" shape="rect" coords="485,390,690,455" target="_blank">
 </map>
 
 <BR>
