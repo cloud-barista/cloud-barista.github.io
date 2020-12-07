@@ -27,11 +27,11 @@ categories:
 </style>
 #### Cloud-Barista 3차 오픈 컨퍼런스 행사를 성황리에 마쳤습니다.
 <BR>
-지난 2020년 11월 25에 Cloud-Barista Community 주관으로 Cloud-Barista Community 제3차 오픈 컨퍼런스(the 3rd Open Conference)로서 온라인으로 각 프레임워크별 발표와 Cloud-Barista v0.3.0-espresso 버전 release 행사가 진행되었습니다.<BR>
+지난 2020년 11월 25에 Cloud-Barista Opensource Community 주관으로 Cloud-Barista Community 제3차 오픈 컨퍼런스(the 3rd Open Conference)로서 온라인으로 각 프레임워크별 기술 소개 발표와 Cloud-Barista v0.3.0-espresso 버전 release 행사가 진행되었습니다.<BR>
 여러분들의 많은 참여와 관심에 진심으로 감사드립니다.
 
 <BR>
-아래와 같이, 각 프레임워크별 발표 자료 파일과 발표 영상을 공유해드립니다.
+아래와 같이, 각 프레임워크별 기술 발표 자료와 발표 영상을 공유해드립니다.
 <!--more-->
 
 <p align="center">
@@ -49,9 +49,16 @@ categories:
 * 행사명 : Cloud-Barista 3rd Open Conference<BR>
   * 부제 : “멀티 클라우드로의 여정(Journey to the Multi-Cloud)”
 
+* 주  관 : Cloud-Barista Community
+ 
+* 후  원 : 과기정통부, 정보통신기획평가원, 정보통신산업진흥원
+
 * 일   시 : 2020년 11월 25일(수) 13:30 ~ 18:00
 
-* 행사 방식 : 공개 온라인 컨퍼런스(무료)
+* 행사 방식 : 공개 온라인 컨퍼런스(올쇼TV, 유튜브, 페이스북으로 송출)
+
+* 참석자 : 클라우드 관련 기업 담당자 등 502명(400여 기관) 참여
+  * 사전등록 : 705명 등록(500여 기관)
 
 <BR>
 
@@ -77,7 +84,7 @@ categories:
 
 ## 3차 오픈 컨퍼런스 질의사항 답변서(Q&A) 다운로드
 
-* [질의사항 답변서 다운로드](https://github.com/cloud-barista/docs/blob/master/openseminar/v0.3.0-espresso/Cloud-Barista_3rd_Open_Conference-%EC%A7%88%EC%9D%98%EC%82%AC%ED%95%AD_%EB%8B%B5%EB%B3%80%EC%84%9C(QnA).pdf "https://github.com/cloud-barista/docs/blob/master/openseminar/v0.3.0-espresso/Cloud-Barista_3rd_Open_Conference-%EC%A7%88%EC%9D%98%EC%82%AC%ED%95%AD_%EB%8B%B5%EB%B3%80%EC%84%9C(QnA).pdf")
+* [질의사항 답변서 다운로드](https://github.com/cloud-barista/docs/blob/master/openseminar/v0.3.0-espresso/Cloud-Barista_3rd_Open_Conference-%EC%A7%88%EC%9D%98%EC%82%AC%ED%95%AD_%EB%8B%B5%EB%B3%80%EC%84%9C(QnA).pdf "https://github.com/cloud-barista/docs/blob/master/openseminar/v0.3.0-espresso/Cloud-Barista_3rd_Open_Conference-%EC%A7%88%EC%9D%98%EC%82%AC%ED%95%AD_%EB%8B%B5%EB%B3%80%EC%84%9C(QnA).pdf"){:target="_blank"}
 
 <BR>
 
