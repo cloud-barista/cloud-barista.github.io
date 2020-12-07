@@ -75,6 +75,12 @@ categories:
 
 <BR>
 
+## 3차 오픈 컨퍼런스 질의사항 답변서(Q&A) 다운로드
+
+* [질의사항 답변서 다운로드](https://github.com/cloud-barista/docs/blob/master/openseminar/v0.3.0-espresso/Cloud-Barista_3rd_Open_Conference-%EC%A7%88%EC%9D%98%EC%82%AC%ED%95%AD_%EB%8B%B5%EB%B3%80%EC%84%9C(QnA).pdf "https://github.com/cloud-barista/docs/blob/master/openseminar/v0.3.0-espresso/Cloud-Barista_3rd_Open_Conference-%EC%A7%88%EC%9D%98%EC%82%AC%ED%95%AD_%EB%8B%B5%EB%B3%80%EC%84%9C(QnA).pdf")
+
+<BR>
+
 #### 2021년도에도 상반기에 4차 오픈 컨퍼런스가 진행될 예정이니 많은 관심 부탁드립니다.
 
 * (참고) [Cloud-Barista Community Open Seminar Milestone](https://cloud-barista.github.io/community/ "Cloud-Barista Open Seminar Milestone"){:target="_blank"}
