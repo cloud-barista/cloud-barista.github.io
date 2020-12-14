@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Blog
-post_title: "[공지] Cloud-Barista 3차 오픈 컨퍼런스 행사 자료를 공유해드립니다"
+post_title: "[공지] Cloud-Barista v0.3.0-espresso를 공유해드립니다"
 date: 2020-12-03 22:53:55
 author: 오병택
 categories: 
@@ -27,7 +27,7 @@ categories:
 </style>
 #### Cloud-Barista 3차 오픈 컨퍼런스 행사를 성황리에 마쳤습니다.
 <BR>
-지난 2020년 11월 25에 Cloud-Barista Opensource Community 주관으로 Cloud-Barista Community 제3차 오픈 컨퍼런스(the 3rd Open Conference)로서 온라인으로 각 프레임워크별 기술 소개 발표와 Cloud-Barista v0.3.0-espresso 버전 release 행사가 진행되었습니다.<BR>
+지난 2020년 11월 25에 Cloud-Barista Opensource Community 주관으로 Cloud-Barista 제3차 오픈 컨퍼런스(the 3rd Open Conference)로서 온라인으로 각 프레임워크별 기술 소개 발표와 Cloud-Barista v0.3.0-espresso 버전 release 행사가 진행되었습니다.<BR>
 여러분들의 많은 참여와 관심에 진심으로 감사드립니다.
 
 <BR>
@@ -81,13 +81,13 @@ categories:
 
 #### 3차 오픈 컨퍼런스 질의사항 답변서(Q&A) 다운로드
 
-* [질의사항 답변서 다운로드(PDF)](https://github.com/cloud-barista/docs/blob/master/openseminar/v0.3.0-espresso/Cloud-Barista_3rd_Open_Conference_QnA_Report.pdf "https://github.com/cloud-barista/docs/blob/master/openseminar/v0.3.0-espresso/Cloud-Barista_3rd_Open_Conference_QnA_Report.pdf"){:target="_blank"}
+* [질의사항 답변서 다운로드(PDF)](https://github.com/cloud-barista/docs/blob/master/openseminar/v0.3.0-espresso/Cloud-Barista_3rd_Open_Conference_QnA_Report.pdf "github.com/cloud-barista/docs/blob/master/openseminar/v0.3.0-espresso/Cloud-Barista_3rd_Open_Conference_QnA_Report.pdf"){:target="_blank"}
 
 <BR>
 
 #### Cloud-Barista 소스 코드 및 설치 가이드
 
-* [v0.3.0-espresso 소스 코드 및 설치 가이드](https://github.com/cloud-barista/cloud-barista/tree/v0.3.0-espresso "https://github.com/cloud-barista/cloud-barista/tree/v0.3.0-espresso"){:target="_blank"}
+* [v0.3.0-espresso 소스 코드 및 설치 가이드](https://github.com/cloud-barista/cloud-barista/tree/v0.3.0-espresso "github.com/cloud-barista/cloud-barista/tree/v0.3.0-espresso"){:target="_blank"}
 
 <BR>
 
