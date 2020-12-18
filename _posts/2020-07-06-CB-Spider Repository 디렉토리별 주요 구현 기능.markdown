@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Blog
-post_title: "CB-Spider Repository 디렉토리별 및 파일별 주요 기능"
+post_title: "CB-Spider Repository 디렉토리 및 파일별 주요 기능(12/16 updated)"
 date: 2020-07-06 16:30:55
 author: 오병택
 categories: 
@@ -13,7 +13,7 @@ categories:
 
 Cloud-Barista 멀티 클라우드 인프라 연동 프레임워크(CB-Spider)는 Cloud-Barista 플랫폼의 하위 프레임워크 중의 하나로서, 이러한 이종 클라우드 연동의 어려운 문제를 해결하기 위한 클라우드 인프라 연동 ‘공통 프레임워크’ 이며, 사용자 및 Cloud-Barista 타 프레임워크에게 서로 다른 클라우드 인프라에 대한 단일 방식의 연동 및 제어 관리가 가능한 API를 제공한다.
 
-본 글은 이러한 CB-Spider를 통해 추가로 다른 CSP 클라우드 연동이 필요할때 cloud 연동 driver 개발시 참고할 수 있도록 CB-Spider github repository([github.com/cloud-barista/cb-spider](https://github.com/cloud-barista/cb-spider "https://github.com/cloud-barista/cb-spider"){:target="_blank"}) 의 구성 디렉토리 및 주요 파일의 기능을 설명하기 위한 것이다.<BR>
+본 글은 이러한 CB-Spider를 통해 추가로 다른 CSP 클라우드 연동이 필요할때 cloud 연동 driver 개발시 참고할 수 있도록 ([CB-Spider github repository](https://github.com/cloud-barista/cb-spider "github.com/cloud-barista/cb-spider"){:target="_blank"}) 의 구성 디렉토리 및 주요 파일의 기능을 설명하기 위한 것이다.<BR>
 (2020/12/16 updated)
 <!--more-->
 
@@ -126,10 +126,10 @@ Cloud-Barista 멀티 클라우드 인프라 연동 프레임워크(CB-Spider)는
     - listVPC
     - getVPC
     - deleteVPC
-  -	localhost:1024/spider/allvpc
-    -	listAllVPC
-  -	localhost:1024/spider/cspvpc
-    -	deleteCSPVPC
+  - localhost:1024/spider/allvpc
+    - listAllVPC
+  - localhost:1024/spider/cspvpc
+    - deleteCSPVPC
   - localhost:1024/spider/securitygroup
     - createSecurity
     - listSecurity
@@ -212,10 +212,10 @@ Cloud-Barista 멀티 클라우드 인프라 연동 프레임워크(CB-Spider)는
 
 -	(참고) **CB-Spider REST API 규격 및 API별 사용 예**
 	- 클라우드 인프라 연동 정보 관리 REST API
-	  -	https://cloud-barista.github.io/rest-api/v0.3.0/spider/ccim/
+	  -	([cloud-barista.github.io/rest-api/v0.3.0/spider/ccim/](https://cloud-barista.github.io/rest-api/v0.3.0/spider/ccim/ "https://cloud-barista.github.io/rest-api/v0.3.0/spider/ccim/"){:target="_blank"})
 	  -	관리대상: Cloud Driver/ Credential/ Region:Zone
 	- 클라우드 인프라 공통 제어 관리 REST API 
-	  -	https://cloud-barista.github.io/rest-api/v0.3.0/spider/cctm/
+	  -	([cloud-barista.github.io/rest-api/v0.3.0/spider/cctm/](https://cloud-barista.github.io/rest-api/v0.3.0/spider/cctm/ "https://cloud-barista.github.io/rest-api/v0.3.0/spider/cctm/"){:target="_blank"})
 	  -	제어대상: Image/Spec/VPC/Subnet/SecurityGroup/ KeyPair/ VM
 
 <BR>
