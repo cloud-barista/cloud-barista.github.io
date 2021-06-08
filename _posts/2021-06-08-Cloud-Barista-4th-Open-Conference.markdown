@@ -31,7 +31,7 @@ categories:
 <table width="760" id="Table_01" border="0" cellspacing="0" cellpadding="0">
 	<tbody><tr>
 		<td>
-			<img width="760" height="533" style="display: block;" alt="" src="/assets/img/blog/4thd-conference/edm_v4-edited.jpg" border="0" usemap="#Map"></td>
+			<img width="760" height="533" style="display: block;" alt="" src="/assets/img/blog/4th-conference/edm_v4-edited.jpg" border="0" usemap="#Map"></td>
 	</tr>
     </tbody>
 </table>
