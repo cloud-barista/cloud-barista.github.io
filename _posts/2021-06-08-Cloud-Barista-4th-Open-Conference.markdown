@@ -35,9 +35,7 @@ categories:
     </tbody>
 </table>
 </center>
-<BR>
- ※ 클라우드바리스타(Cloud-Barista)는 커뮤니티/소스코드명/기여자를 지칭하는 공통 용어로 사용합니다.
-
+ ※ 클라우드바리스타(Cloud-Barista)는 커뮤니티/소스코드명/기여자를 지칭하는 공통 용어로 사용됩니다.
 <BR>
 
 <span style="color:#557799"><img src="/assets/img/blog/2nd-conference/screen_icon-icons.com_52924.png" width="30" height="30" style="border:0px;vertical-align:middle">
@@ -49,6 +47,7 @@ categories:
 &nbsp;&nbsp;&nbsp;&nbsp;
     [<img src="/assets/img/blog/2nd-conference/Lastfm-Icon_22087.png" width="30" height="30" style="border:0px;vertical-align:middle">
     <span style = "font-size:1.1em;  color: #0366CC;"> 라이브로TV 채널(사전 등록 및 시청)</span>](https://webinaro.co.kr/Event/61 "라이브로TV 채널"){:target="_blank"}<BR>
+    ※ 행사에 등록하시면 메일로 라이브로TV 방송 참여 링크가 발송됩니다.
 <BR>
 
 <span style="color:#557799"><img src="/assets/img/blog/2nd-conference/Quora-Icon_22095.png" width="30" height="30" style="border:0px;vertical-align:middle">
