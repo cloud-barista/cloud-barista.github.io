@@ -33,7 +33,7 @@ Cloud-Barista 오픈 소스 커뮤니티를 통해 클라우드 분야 차기 �
 
 <img src="/assets/img/blog/2nd-conference/square_payment_icon_132877.png" width="25" height="35" style="border:0px;vertical-align:middle"> 행사 방식 : 공개 온라인 컨퍼런스(무료)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* 온라인 공개 채널 : AllshowTV 채널, Youtube 및 Facebook 채널
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* 온라인 공개 채널 : AllshowTV 채널, YouTube 및 Facebook 채널
 
 <img src="/assets/img/blog/2nd-conference/square_payment_icon_132877.png" width="25" height="35" style="border:0px;vertical-align:middle"> 참가 대상 : 클라우드 분야 종사자 또는 관련 기술에 관심이 있는 모든 분 
 
@@ -66,13 +66,13 @@ Cloud-Barista 오픈 소스 커뮤니티를 통해 클라우드 분야 차기 �
 
 &nbsp;&nbsp;&nbsp;&nbsp;
     [<img src="/assets/img/blog/2nd-conference/Youtube-Icon_22119.png" width="30" height="30" style="border:0px;vertical-align:middle">
-    <span style = "font-size:1.1em;  color: #0366CC;"> Cloud-Barista 커뮤니티 Youtube 채널</span>](https://www.youtube.com/playlist?list=PLwwH7W22YKWuvQxQ_3UqxVRtxzSj-HtgA "Cloud-Barista 커뮤니티 Youtube 채널"){:target="_blank"}<BR>
+    <span style = "font-size:1.1em;  color: #0366CC;"> Cloud-Barista 커뮤니티 YouTube 채널</span>](https://www.youtube.com/playlist?list=PLwwH7W22YKWuvQxQ_3UqxVRtxzSj-HtgA "Cloud-Barista 커뮤니티 YouTube 채널"){:target="_blank"}<BR>
 
 &nbsp;&nbsp;&nbsp;&nbsp;
     [<img src="/assets/img/blog/2nd-conference/Facebook-Icon_22115.png" width="30" height="30" style="border:0px;vertical-align:middle">
     <span style = "font-size:1.1em;  color: #0366CC"> Cloud-Barista 커뮤니티 Facebook 채널</span>](https://www.facebook.com/Cloud-Barista-Community-103500041371503/ "Cloud-Barista 커뮤니티 Facebook 채널"){:target="_blank"}
 
-   > Youtube 및 Facebook 채널은 사전등록 없이 시청 가능합니다.
+   > YouTube 및 Facebook 채널은 사전등록 없이 시청 가능합니다.
 
 
 <span style="color:#557799"><img src="/assets/img/blog/2nd-conference/Quora-Icon_22095.png" width="30" height="30" style="border:0px;vertical-align:middle">
@@ -94,7 +94,7 @@ Cloud-Barista 오픈 소스 커뮤니티를 통해 클라우드 분야 차기 �
 **소스 코드 공개 안내**</span>
 
    > Cloud-Barista 2nd 버전(Cappuccino) 소스코드 및 관련 문서는 [본 홈페이지](https://cloud-barista.github.io/download/ "본 홈페이지 Download 메뉴"){:target="_blank"}
-    및 [Cloud-Barista Github](https://github.com/cloud-barista/cloud-barista "Cloud-Barista Github"){:target="_blank"}를 통해 공유해드릴 예정입니다.
+    및 [Cloud-Barista GitHub](https://github.com/cloud-barista/cloud-barista "Cloud-Barista GitHub"){:target="_blank"}를 통해 공유해드릴 예정입니다.
 
 <BR>
 
