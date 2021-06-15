@@ -68,7 +68,7 @@ categories:
 
 &nbsp;&nbsp;&nbsp;&nbsp;
     [<img src="/assets/img/blog/2nd-conference/Youtube-Icon_22119.png" width="30" height="30" style="border:0px;vertical-align:middle">
-    <span style = "font-size:1.1em;  color: #0366CC;"> Cloud-Barista 커뮤니티 Youtube 채널</span>](https://cloud-barista.github.io/youtube "Cloud-Barista 커뮤니티 Youtube 채널"){:target="_blank"}<BR>
+    <span style = "font-size:1.1em;  color: #0366CC;"> Cloud-Barista 커뮤니티 YouTube 채널</span>](https://cloud-barista.github.io/youtube "Cloud-Barista 커뮤니티 YouTube 채널"){:target="_blank"}<BR>
 
 <BR>
 
@@ -91,4 +91,4 @@ categories:
 **소스 코드 공개 안내**</span>
 
    > Cloud-Barista 3rd 버전(Espresso) 소스 코드 및 관련 문서는 온라인 행사 후 [본 홈페이지](https://cloud-barista.github.io/download/ "본 홈페이지 Download 메뉴"){:target="_blank"}
-    및 [Cloud-Barista Github](https://github.com/cloud-barista/cloud-barista "Cloud-Barista Github"){:target="_blank"}를 통해 공유해드릴 예정입니다.
+    및 [Cloud-Barista GitHub](https://github.com/cloud-barista/cloud-barista "Cloud-Barista GitHub"){:target="_blank"}를 통해 공유해드릴 예정입니다.
