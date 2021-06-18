@@ -46,7 +46,12 @@ categories:
 
 &nbsp;&nbsp;&nbsp;&nbsp;
     [<img src="/assets/img/blog/2nd-conference/Lastfm-Icon_22087.png" width="30" height="30" style="border:0px;vertical-align:middle">
-    <span style = "font-size:1.1em;  color: #0366CC;"> 라이브로TV 채널(사전 등록 및 시청)</span>](https://webinaro.co.kr/Event/61 "라이브로TV 채널"){:target="_blank"}<BR>
+    <del><span style = "font-size:1.1em;  color: #0366CC;"> 라이브로TV 채널(사전 등록 및 시청)</span></del>](https://webinaro.co.kr/Event/61 "라이브로TV 채널"){:target="_blank"}<BR>
+
+  <BR>
+   &nbsp;&nbsp;&nbsp;&nbsp; => 행사가 종료되어 행사 녹화영상을 공유해드립니다.<BR>
+  
+   &nbsp;&nbsp;&nbsp;&nbsp; [[4차 오픈 컨퍼런스 Full 영상 다시보기]](https://youtu.be/1C_E4Isv8AY "4차 오픈 컨퍼러스 다시보기"){:target="_blank"}
 
 <BR>
 
