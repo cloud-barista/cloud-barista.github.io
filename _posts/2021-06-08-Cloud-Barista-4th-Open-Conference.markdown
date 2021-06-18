@@ -74,4 +74,4 @@ categories:
 **소스 코드 공개 안내**</span>
 
    > Cloud-Barista 4th 버전(Café Mocha) 소스 코드 및 관련 문서는 온라인 행사 후 [본 홈페이지](https://cloud-barista.github.io/download/ "본 홈페이지 Download page"){:target="_blank"}
-    및 [Cloud-Barista Github](https://github.com/cloud-barista/cloud-barista "Cloud-Barista Github"){:target="_blank"}를 통해 공유해드릴 예정입니다.
+    및 [Cloud-Barista GitHub](https://github.com/cloud-barista/cloud-barista "Cloud-Barista GitHub"){:target="_blank"}를 통해 공유해드릴 예정입니다.
