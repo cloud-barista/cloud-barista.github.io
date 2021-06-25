@@ -51,7 +51,7 @@ categories:
   <BR>
    &nbsp;&nbsp;&nbsp;&nbsp; => 행사가 종료되어 행사 녹화영상을 공유해드립니다.<BR>
   
-   &nbsp;&nbsp;&nbsp;&nbsp; [[4차 오픈 컨퍼런스 Full 영상 다시보기]](https://youtu.be/1C_E4Isv8AY "4차 오픈 컨퍼러스 다시보기"){:target="_blank"}
+   &nbsp;&nbsp;&nbsp;&nbsp; [[4차 오픈 컨퍼런스 Full 영상 다시보기]](https://youtu.be/xYMJG50fMFw "4차 오픈 컨퍼러스 다시보기"){:target="_blank"}
 
 <BR>
 
