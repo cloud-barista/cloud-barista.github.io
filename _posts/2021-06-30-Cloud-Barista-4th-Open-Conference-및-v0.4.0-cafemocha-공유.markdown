@@ -2,7 +2,7 @@
 layout: post
 title: Blog
 post_title: "[공지] 제4차 오픈 컨퍼런스 발표 자료와 발표 영상을 공유해드립니다"
-date: 2020-06-25 20:50:35
+date: 2021-06-25 20:50:35
 author: 오병택
 categories: 
 - 공지
