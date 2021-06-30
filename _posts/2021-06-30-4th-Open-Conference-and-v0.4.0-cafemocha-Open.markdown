@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Blog
-post_title: "[공지] 제4차 오픈 컨퍼런스 발표 자료와 발표 영상을 공유해드립니다"
-date: 2021-06-25 20:50:35
+post_title: "[공지] 4차 오픈 컨퍼런스 발표자료와 v0.4.0-cafemocha를 공유해드립니다"
+date: 2021-06-30 15:00:25
 author: 오병택
 categories: 
 - 공지
@@ -76,3 +76,20 @@ categories:
 | 에필로그 | 강동재<BR>커뮤니티 리더 | - | [[YouTube](https://youtu.be/gIEsqneNqoo){:target="_blank"}] |
 
 <BR>
+
+#### 4차 오픈 컨퍼런스 질의사항 답변서(Q&A report) 다운로드
+
+* [질의사항 답변서(Q&A Report) 다운로드](https://github.com/cloud-barista/docs/blob/master/openseminar/v0.4.0-cafemocha/Cloud-Barista_4th_Open_Conference_QnA_Report.pdf "github.com/cloud-barista/docs/blob/master/openseminar/v0.4.0-cafemocha/Cloud-Barista_4th_Open_Conference_QnA_Report.pdf"){:target="_blank"}
+
+<BR>
+
+
+#### Cloud-Barista v0.4.0 CafeMocha 공개
+
+* [v0.4.0-cafemocha 소스 코드 및 설치 가이드](https://github.com/cloud-barista/cloud-barista/tree/release-0.4.0 "github.com/cloud-barista/cloud-barista/tree/release-0.4.0"){:target="_blank"}
+
+<BR>
+
+#### 2021년도 하반기에도 5차 오픈 컨퍼런스가 진행될 예정이니 많은 관심 부탁드립니다.
+
+* (참고) [Cloud-Barista Community Open Seminar Milestone](https://cloud-barista.github.io/community/ "Cloud-Barista Open Seminar Milestone"){:target="_blank"}
