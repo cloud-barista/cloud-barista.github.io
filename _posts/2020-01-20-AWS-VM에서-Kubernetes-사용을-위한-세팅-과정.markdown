@@ -14,10 +14,10 @@ categories:
 
 #### 2. 인스턴스 이미지 종류 검색 
  * 18.04 검색
- * 우분투 18.04 LTS버전 선택<BR><BR>
+ * 우분투 18.04 LTS버전 선택<br><br>
 
 #### 3. 인스턴스 생성 시작
- * flavor , volume, 보안 그룹, 키페어 선택<BR><BR>
+ * flavor , volume, 보안 그룹, 키페어 선택<br><br>
 <!--more-->
 
 #### 4. 기본 설정 방법
@@ -56,7 +56,7 @@ categories:
 	```
 	$ sudo service ssh restart
 	```
-<BR>
+<br>
 
 #### 5. K8s 설치과정 
  * 도커 설치
@@ -78,7 +78,7 @@ categories:
 	(선택적)sudo apt-mark hold kubelet kubeadm kubectl
 	※버전 홀드 풀려면 sudo apt-mark unhold~
 	```
-<BR>
+<br>
 
 #### 6. K8s 클러스터 구축 과정
  * 클러스터 초기화
@@ -131,7 +131,7 @@ categories:
 	$ sudo kubectl cluster-info
 	$ sudo kubectl get nodes 
 	```
-<BR>
+<br>
 
 #### 7. Web Tool 설치
  * 대시보드 배포

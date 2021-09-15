@@ -13,11 +13,11 @@ categories:
 
 Cloud-Barista 멀티 클라우드 인프라 연동 프레임워크(CB-Spider)는 Cloud-Barista 플랫폼의 하위 프레임워크 중의 하나로서, 이러한 이종 클라우드 연동의 어려운 문제를 해결하기 위한 클라우드 인프라 연동 ‘공통 프레임워크’ 이며, 사용자 및 Cloud-Barista 타 프레임워크에게 서로 다른 클라우드 인프라에 대한 단일 방식의 연동 및 제어 관리가 가능한 API를 제공한다.
 
-본 글은 이러한 CB-Spider를 통해 추가로 다른 CSP 클라우드 연동이 필요할때 cloud 연동 driver 개발시 참고할 수 있도록 [CB-Spider github repository](https://github.com/cloud-barista/cb-spider "github.com/cloud-barista/cb-spider"){:target="_blank"} 의 구성 디렉토리 및 주요 파일의 기능을 설명하기 위한 것이다.<BR>
+본 글은 이러한 CB-Spider를 통해 추가로 다른 CSP 클라우드 연동이 필요할때 cloud 연동 driver 개발시 참고할 수 있도록 [CB-Spider github repository](https://github.com/cloud-barista/cb-spider "github.com/cloud-barista/cb-spider"){:target="_blank"} 의 구성 디렉토리 및 주요 파일의 기능을 설명하기 위한 것이다.<br>
 (2020/12/16 updated)
 <!--more-->
 
-<BR>
+<br>
 
 ### [ 실행 환경 세팅 ]
 #### */setup.env*
@@ -38,14 +38,14 @@ Cloud-Barista 멀티 클라우드 인프라 연동 프레임워크(CB-Spider)는
 
 - 환경변수 반영 위해 개발/테스트시 먼저 `source ./setup.env` 실행 필요
 
-<BR>
+<br>
 
 #### */go.mod*
 
 - Go 패키지 모음
 - Build에 필요한 각각의 dependency 정의(import 필요한 module들의 path)
 
-<BR>
+<br>
 
 #### */conf/*
 
@@ -60,7 +60,7 @@ Cloud-Barista 멀티 클라우드 인프라 연동 프레임워크(CB-Spider)는
         - (주의) 위의 /setup.env에서 설정한 CBSTORE_ROOT 환경변수 참고 필요
 
 
-<BR>
+<br>
 
 #### */meta_db/*
 
@@ -71,12 +71,12 @@ Cloud-Barista 멀티 클라우드 인프라 연동 프레임워크(CB-Spider)는
 	- /cb-store/ or /cb-spider/의 /conf/store_conf.yaml 에서 설정
   (위의 /setup.env에서 설정한 CBSTORE_ROOT 환경변수에 따라)
 
-<BR>
+<br>
 
 #### */Dockerfile*
 - Docker image build 실행용
 
-<BR>
+<br>
 
 ### [ REST API to Go Function 매핑 관계 ]
 
@@ -208,7 +208,7 @@ Cloud-Barista 멀티 클라우드 인프라 연동 프레임워크(CB-Spider)는
 	  
 	- 상세 매핑 내용은 */rest-runtime/* 디렉토리에 있는 CBSpiderRuntime.go 파일 참고
 	
-<BR>
+<br>
 
 -	(참고) **CB-Spider REST API 규격 및 API별 사용 예**
 	- 클라우드 인프라 연동 정보 관리 REST API
@@ -218,11 +218,11 @@ Cloud-Barista 멀티 클라우드 인프라 연동 프레임워크(CB-Spider)는
 	  -	[cloud-barista.github.io/rest-api/v0.3.0/spider/cctm/](https://cloud-barista.github.io/rest-api/v0.3.0/spider/cctm/ "https://cloud-barista.github.io/rest-api/v0.3.0/spider/cctm/"){:target="_blank"}
 	  -	제어대상: Image/Spec/VPC/Subnet/SecurityGroup/ KeyPair/ VM
 
-<BR>
+<br>
 
 ### [ CB-Spider 주요 디렉토리 및 파일 기능 ]
 
-<BR>
+<br>
 
 #### */api-runtime/*
 - 코드 build 및 서버 구동 후 아래의 테스트를 진행할 수 있음.
@@ -265,7 +265,7 @@ Cloud-Barista 멀티 클라우드 인프라 연동 프레임워크(CB-Spider)는
     	
     	- full_test.sh
     	  - CSP별 자원 관리 전체 기능 시험 script
-<BR>
+<br>
   - */admin-web/* 디렉토리 기능
     - CB-Spider admin web
     - 위의 REST API 기능 테스트에서와 같은 CSP별 연결 정보 등록을 간단히 UI로 진행할 수 있도록 지원하는 도구
@@ -275,22 +275,22 @@ Cloud-Barista 멀티 클라우드 인프라 연동 프레임워크(CB-Spider)는
       - Cloud connection config 등록 기능
     - 웹 접속 URL
       - http://localhost:1024/spider/adminweb
-<BR>
+<br>
 - */grpc-runtime/*
 	- gRPC runtime 코드 위치
 	- gRPC API 서버가 구동됨
 	  -	기본 Port : 2048
-<BR>
+<br>
 - */meerkat-runtime/*
   - meerkat runtime 엔진(PoC) 코드 위치
     -	기본 Port : 4096
   -	분산 Spider 메카니즘
 
-<BR>  
+<br>  
 
 #### */cloud-info-manager/*
 - **현 디렉토리에 구현된 function**
-	- listCloudOS<BR>
+	- listCloudOS<br>
 - */connection-config-info-manager/*
 	- Cloud 연결 정보 관리 기능 구현 코드
 	- **구현된 function**
@@ -322,13 +322,13 @@ Cloud-Barista 멀티 클라우드 인프라 연동 프레임워크(CB-Spider)는
 		- listRegion
 		- getRegion
 		- unRegisterRegion
-<BR>		  
+<br>		  
 
 #### */cloud-control-manager/*
 
 - **구현된 function**
    - GetCloudConnection
-   - createImage<BR>
+   - createImage<br>
 - */cloud-driver/*
    - **Cloud driver package 구현 디렉토리**
    - */call-log/*
@@ -367,45 +367,45 @@ Cloud-Barista 멀티 클라우드 인프라 연동 프레임워크(CB-Spider)는
       - */resources/*
         - Cloud driver 'Resource' inferface 정의
 
-<BR>           
+<br>           
 - */iid-manager/*
    - **Resource 관련 통합 ID(Integrated ID) 관리**
    - IID C/R/U/D 기능 fuction 구현체
 
-<BR>      
+<br>      
 - */vm-ssh/*
    - **Private key 혹은 private key path를 이용해, VM에 SSH로 파일 copy 및 script 실행 기능을 하는 utility**
    - 참고 : 이 utility을 편리하게 이용할 수 있는 기능 함수는 poc-specialized_services repository의 /vm-ssh-util/ 디렉토리에 구현되어 있음.
    - [~/cloud-barista/poc-specialized_services/vm-ssh-util/SshUtil.go](https://github.com/cloud-barista/poc-specialized_services/blob/master/vm-ssh-util/SshUtil.go "github.com/cloud-barista/poc-specialized_services/blob/master/vm-ssh-util/SshUtil.go"){:target="_blank"} 에 구현되어 있음.
 
-<BR>  
+<br>  
 
 #### */build_all_driver_lib.sh*
 - 각각의 CSP 연결 driver를 한번의 실행 명령으로 build 하는 script
   - cb-spider 서버를 구동하기 전에 실행 필요
-<BR>
+<br>
 
 #### */cloud-driver-libs/*
 - Build된 각 CSP driver libray 위치(object 파일) 
 
-<BR>
+<br>
 
 ### [ REST API 통한 VM 생성 실행 예(REST API로부터 driver까지) ]
 
-<BR>
+<br>
 
 - REST API인 localhost:1024/spider/vm 을 call하면,
 
-  => /api-runtime/rest-runtime/CCIMRest.go 의 startVM(c echo.Context) 함수를 실행하여<BR>
+  => /api-runtime/rest-runtime/CCIMRest.go 의 startVM(c echo.Context) 함수를 실행하여<br>
 result로서 cmrt.StartVM(req.ConnectionName, rsVM, reqInfo)가 실행됨.
-<P>
-  => 이에 따라, /api-runtime/common-runtime/CCMCommon.go 내의 <BR>
-StartVM(connectionName string, rsType string, reqInfo cres.VMReqInfo) (*cres.VMInfo, error)가 실행되어, <BR>
+<p>
+  => 이에 따라, /api-runtime/common-runtime/CCMCommon.go 내의 <br>
+StartVM(connectionName string, rsType string, reqInfo cres.VMReqInfo) (*cres.VMInfo, error)가 실행되어, <br>
 create resource를 위해 (cres.VMHandler).StartVM(vmReqInfo cres.VMReqInfo) (cres.VMInfo, error)를 call함.
-<P>
-  => 연동된 cloud driver의 해당 기능을 실행하기 위해 해당 interface를 call함.<BR>
+<p>
+  => 연동된 cloud driver의 해당 기능을 실행하기 위해 해당 interface를 call함.<br>
 : /cloud-control-manager/cloud-driver/interfaces/resources/ 디렉토리의 VMHandler.go 내의 interface로서 StartVM(vmReqInfo VMReqInfo) (VMInfo, error)이 호출됨.
-<P>
-  => 해당 CSP의 driver 내의 실제 기능 함수가 호출되어, <BR>
-/cloud-control-manager/cloud-driver/drivers/[CSP명]/resources/ 디렉토리 내에 위치한 VMHandler.go의 실제 VM 생성 함수가 실행됨.<BR>
+<p>
+  => 해당 CSP의 driver 내의 실제 기능 함수가 호출되어, <br>
+/cloud-control-manager/cloud-driver/drivers/[CSP명]/resources/ 디렉토리 내에 위치한 VMHandler.go의 실제 VM 생성 함수가 실행됨.<br>
 : func (vmHandler *AwsVMHandler) StartVM(vmReqInfo irs.VMReqInfo) (irs.VMInfo, error)
