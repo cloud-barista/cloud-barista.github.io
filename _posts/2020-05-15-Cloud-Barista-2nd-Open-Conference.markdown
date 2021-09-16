@@ -13,7 +13,7 @@ categories:
 ![Alt text](/assets/img/blog/2nd-conference/leaflet-haeder.png){:width="760px"}
 
 Cloud-Barista 오픈 소스 커뮤니티를 통해 클라우드 분야 차기 트랜드의 일환인 멀티 클라우드 기술로서 Cloud-Barista 개발이 진행되고 있습니다.
-<BR>
+<br>
 
 많은 분들이 참여해주신 지난 2019년 11월 Cloud-Barista 1차 공개 행사에 이어, 아래와 같이 오는 6월 3일(수)에 2차 공개 행사로서 ‘**Cloud-Barista 2nd Open Conference**‘가 진행될 예정입니다.
 
@@ -37,10 +37,10 @@ Cloud-Barista 오픈 소스 커뮤니티를 통해 클라우드 분야 차기 �
 
 <img src="/assets/img/blog/2nd-conference/square_payment_icon_132877.png" width="25" height="35" style="border:0px;vertical-align:middle"> 참가 대상 : 클라우드 분야 종사자 또는 관련 기술에 관심이 있는 모든 분 
 
-<img src="/assets/img/blog/2nd-conference/square_payment_icon_132877.png" width="25" height="35" style="border:0px;vertical-align:middle"> 행사 프로그램<BR>
+<img src="/assets/img/blog/2nd-conference/square_payment_icon_132877.png" width="25" height="35" style="border:0px;vertical-align:middle"> 행사 프로그램<br>
 ![Alt text](/assets/img/blog/2nd-conference/barista_edm_02-edited2-cut.jpg)
 
-<BR>
+<br>
 
 <span style="color:#557799"><img src="/assets/img/blog/2nd-conference/paper-pencil_icon-icons.com_52928.png" width="30" height="30" style="border:0px;vertical-align:middle">
  **사전 등록 안내**</span>
@@ -51,7 +51,7 @@ Cloud-Barista 오픈 소스 커뮤니티를 통해 클라우드 분야 차기 �
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Alt text](/assets/img/blog/2nd-conference/barista_edm_02-cut2-resized.jpg)](http://www.allshowtv.com/member/index.html?idx=199){:target="_blank"}
 
-<BR>
+<br>
 
 <span style="color:#557799"><img src="/assets/img/blog/2nd-conference/screen_icon-icons.com_52924.png" width="30" height="30" style="border:0px;vertical-align:middle">
 **온라인 컨퍼런스 참여 방법**</span>
@@ -61,12 +61,12 @@ Cloud-Barista 오픈 소스 커뮤니티를 통해 클라우드 분야 차기 �
 
 &nbsp;&nbsp;&nbsp;&nbsp;
     [<img src="/assets/img/blog/2nd-conference/Lastfm-Icon_22087.png" width="30" height="30" style="border:0px;vertical-align:middle">
-    <span style = "font-size:1.1em;  color: #0366CC;"> AllshowTV 채널</span>](http://www.allshowtv.com/detail.html?idx=199 "AllshowTV 채널"){:target="_blank"}<BR>
+    <span style = "font-size:1.1em;  color: #0366CC;"> AllshowTV 채널</span>](http://www.allshowtv.com/detail.html?idx=199 "AllshowTV 채널"){:target="_blank"}<br>
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;
     [<img src="/assets/img/blog/2nd-conference/Youtube-Icon_22119.png" width="30" height="30" style="border:0px;vertical-align:middle">
-    <span style = "font-size:1.1em;  color: #0366CC;"> Cloud-Barista 커뮤니티 YouTube 채널</span>](https://www.youtube.com/playlist?list=PLwwH7W22YKWuvQxQ_3UqxVRtxzSj-HtgA "Cloud-Barista 커뮤니티 YouTube 채널"){:target="_blank"}<BR>
+    <span style = "font-size:1.1em;  color: #0366CC;"> Cloud-Barista 커뮤니티 YouTube 채널</span>](https://www.youtube.com/playlist?list=PLwwH7W22YKWuvQxQ_3UqxVRtxzSj-HtgA "Cloud-Barista 커뮤니티 YouTube 채널"){:target="_blank"}<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;
     [<img src="/assets/img/blog/2nd-conference/Facebook-Icon_22115.png" width="30" height="30" style="border:0px;vertical-align:middle">
@@ -80,7 +80,7 @@ Cloud-Barista 오픈 소스 커뮤니티를 통해 클라우드 분야 차기 �
  
     *	행사 운영사무국 전화 : 070-8730-2343 / E-mail : lys@kcloud.or.kr
 
-<BR>
+<br>
 
 <span style="color:#557799"><img src="/assets/img/blog/2nd-conference/Quora-Icon_22095.png" width="30" height="30" style="border:0px;vertical-align:middle">
 **Cloud-Barsita 기술 및 커뮤니티 Q&A 연락처**</span>
@@ -88,7 +88,7 @@ Cloud-Barista 오픈 소스 커뮤니티를 통해 클라우드 분야 차기 �
     *	E-mail : contact-to-cloud-barista@googlegroups.com
 
 
-<BR>
+<br>
 
 <span style="color:#557799"><img src="/assets/img/blog/2nd-conference/Github-Icon_22102.png" width="30" height="30" style="border:0px;vertical-align:middle">
 **소스 코드 공개 안내**</span>
@@ -96,7 +96,7 @@ Cloud-Barista 오픈 소스 커뮤니티를 통해 클라우드 분야 차기 �
    > Cloud-Barista 2nd 버전(Cappuccino) 소스코드 및 관련 문서는 [본 홈페이지](https://cloud-barista.github.io/download/ "본 홈페이지 Download 메뉴"){:target="_blank"}
     및 [Cloud-Barista GitHub](https://github.com/cloud-barista/cloud-barista "Cloud-Barista GitHub"){:target="_blank"}를 통해 공유해드릴 예정입니다.
 
-<BR>
+<br>
 
 <span style="color:#557799"><img src="/assets/img/blog/2nd-conference/Youtube-Icon_22119.png" width="30" height="30" style="border:0px;vertical-align:middle">
 **2nd 오픈 컨퍼런스 트레일러 동영상**</span>
