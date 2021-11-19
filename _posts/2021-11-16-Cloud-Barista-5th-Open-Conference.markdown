@@ -33,7 +33,7 @@ categories:
 <table width="760" id="Table_01" border="0" cellspacing="0" cellpadding="0">
 	<tbody><tr>
 		<td>
-			<a href="https://webinaro.co.kr/Event/117" target="_blank"><img width="760" height="533" style="display: block;" alt="" src="/assets/img/blog/5th-conference/edm_v4-edited.jpg" border="0"></a></td>
+			<a href="https://webinaro.co.kr/Event/117" target="_blank"><img width="760" height="533" style="display: block;" alt="" src="/assets/img/blog/5th-conference/edm_v6-edited.jpg" border="0"></a></td>
 	</tr>
     </tbody>
 </table>
