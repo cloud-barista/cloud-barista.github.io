@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Blog
-post_title: "[공지] 5차 오픈 컨퍼런스 발표자료와 v0.5.0-affogato를 공유해드립니다"
+post_title: "[공지] 5차 오픈 컨퍼런스 발표자료와 v0.5.0-affogato 소스 코드를 공유해드립니다"
 date: 2021-12-16 17:35:35
 author: 오병택
 categories: 
@@ -27,7 +27,7 @@ categories:
 </style>
 #### Cloud-Barista 5차 오픈 컨퍼런스 행사를 여러분들의 많은 참여로 성황리에 마쳤습니다.
 <br>
-지난 2021년 11월 30에 Cloud-Barista Opensource Community 주관으로 Cloud-Barista 제5차 오픈 컨퍼런스(the 5th Open Conference)로서 온라인/오프라인 병행 행사로 각 프레임워크별 기술 소개 발표와 Cloud-Barista v0.5.0-affogato 버전 release 행사가 진행되었습니다.
+지난 2021년 11월 30에 Cloud-Barista Opensource Community 주관으로 Cloud-Barista 제5차 오픈 컨퍼런스(the 5th Open Conference)로서 온라인/오프라인 병행 행사로 각 프레임워크별 기술 소개 발표와 Cloud-Barista v0.5.0-affogato release 행사가 진행되었습니다.
 <br>
 여러분들의 많은 참여와 관심에 진심으로 감사드립니다.
 
@@ -65,7 +65,7 @@ categories:
 | 세션 제목 | 발표자 | 발표 자료 | 발표 영상 |
 | :------------------------------: | :--------------: | :----------------: | :--------------------: |
 | 프롤로그 | 강동재<br>커뮤니티 리더 | - | [[YouTube](https://youtu.be/6ylyEoQvNN8?t=87){:target="_blank"}] |
-| 축사 | 김정삼<br>과학정통부<br>SW정책관<br>/ 김형철 IITP PM | - | [[YouTube](https://youtu.be/6ylyEoQvNN8?t=257){:target="_blank"}] |
+| 축사 | 김정삼<br>과기정통부<br>SW정책관<br>/ 김형철 IITP PM | - | [[YouTube](https://youtu.be/6ylyEoQvNN8?t=257){:target="_blank"}] |
 | 멀티클라우드, "새로운 생태계를 향한 클라우드 비긴어게인" | 강동재<br>커뮤니티 리더 | [[GitHub](https://github.com/cloud-barista/docs/blob/master/openseminar/v0.5.0-affogato/ppt_files/5th_conference_01-Cloud-Begin_Again-v2.0.pdf){:target="_blank"}] [[SlideShare](https://www.slideshare.net/cloud-barista/cloudbarista-5-cloudbarista){:target="_blank"}] | [[YouTube](https://youtu.be/6ylyEoQvNN8?t=760){:target="_blank"}] |
 | 멀티클라우드 서비스 활용사례 유즈케이스<br>(사용자 및 데이터 근접 서비스) | 강동재<br>커뮤니티 리더 | [[GitHub](https://github.com/cloud-barista/docs/blob/master/openseminar/v0.5.0-affogato/ppt_files/5th_conference_02-Multi_Cloud_Service_Usecases-v2.0.pdf){:target="_blank"}] [[SlideShare](https://www.slideshare.net/cloud-barista/cloudbarista-5){:target="_blank"}] | [[YouTube](https://youtu.be/6ylyEoQvNN8?t=2957){:target="_blank"}] |
 | Coffee Break |||
@@ -82,12 +82,12 @@ categories:
 
 #### 5차 오픈 컨퍼런스 질의사항 답변서(Q&A report) 다운로드
 
-* [질의사항 답변서(Q&A Report) 다운로드](https://github.com/cloud-barista/docs/blob/master/openseminar/v0.5.0-affogato/Cloud-Barista_5th_Open_Conference_QnA_Report.pdf "github.com/cloud-barista/docs/blob/master/openseminar/v0.5.0-affogato/Cloud-Barista_5th_Open_Conference_QnA_Report.pdf"){:target="_blank"}
+* [행사 질의 사항 답변서(Q&A Report) 다운로드](https://github.com/cloud-barista/docs/blob/master/openseminar/v0.5.0-affogato/Cloud-Barista_5th_Open_Conference_QnA_Report.pdf "github.com/cloud-barista/docs/blob/master/openseminar/v0.5.0-affogato/Cloud-Barista_5th_Open_Conference_QnA_Report.pdf"){:target="_blank"}
 
 <br>
 
 
-#### Cloud-Barista v0.5.0 Affogato 공개
+#### Cloud-Barista v0.5.0-affogato 소스 코드 공개
 
 * [v0.5.0-affogato 소스 코드 및 설치 가이드](https://github.com/cloud-barista/cloud-barista/tree/release-0.5.0 "github.com/cloud-barista/cloud-barista/tree/release-0.5.0"){:target="_blank"}
 
