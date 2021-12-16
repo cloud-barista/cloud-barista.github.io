@@ -27,7 +27,8 @@ categories:
 </style>
 #### Cloud-Barista 5차 오픈 컨퍼런스 행사를 여러분들의 많은 참여로 성황리에 마쳤습니다.
 <br>
-지난 2021년 11월 30에 Cloud-Barista Opensource Community 주관으로 Cloud-Barista 제5차 오픈 컨퍼런스(the 5th Open Conference)로서 온라인/오프라인 병행 행사로 각 프레임워크별 기술 소개 발표와 Cloud-Barista v0.5.0-affogato 버전 release 행사가 진행되었습니다.<br>
+지난 2021년 11월 30에 Cloud-Barista Opensource Community 주관으로 Cloud-Barista 제5차 오픈 컨퍼런스(the 5th Open Conference)로서 온라인/오프라인 병행 행사로 각 프레임워크별 기술 소개 발표와 Cloud-Barista v0.5.0-affogato 버전 release 행사가 진행되었습니다.
+<br>
 여러분들의 많은 참여와 관심에 진심으로 감사드립니다.
 
 <br>
@@ -46,16 +47,16 @@ categories:
 </p>
 
 #### 제 5차 오픈 컨퍼런스 개요
-* 행사명 : Cloud-Barista 5th Open Conference<br>
+* 행사명 : Cloud-Barista 커뮤니티 제5차 컨퍼런스<br>
   * 부제 : 멀티클라우드, "새로운 생태계를 향한 클라우드 비긴어게인"
 
-* 주  관 : Cloud-Barista Community
+* 주  관 : Cloud-Barista 커뮤니티
  
 * 후  원 : 과학기술정보통신부, 정보통신기획평가원(IITP), 정보통신산업진흥원(NIPA), ETRI 오픈소스센터(EOSC)
 
 * 일  시 : 2021년 11월 30일(화) 13:30 ~ 18:00
 
-* 장소 : 서울 양재 엘타워 오르체홀, 라이브로TV 및 YouTube로 실시간 송출
+* 장소 : 서울 양재 엘타워 오르체홀 (라이브로TV 및 YouTube로 실시간 중계)
 
 <br>
 
