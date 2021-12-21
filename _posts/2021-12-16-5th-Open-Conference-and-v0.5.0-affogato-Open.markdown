@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Blog
-post_title: "[공지] 5차 오픈 컨퍼런스 발표자료와 v0.5.0-affogato 소스 코드를 공유해드립니다"
+post_title: "[공지] 클라우드바리스타 커뮤니티 제5차 컨퍼런스의 결과물을 공유드립니다."
 date: 2021-12-16 17:35:35
 author: 오병택
 categories: 
@@ -25,9 +25,11 @@ categories:
         padding: 7px;
     }
 </style>
-#### Cloud-Barista 5차 오픈 컨퍼런스 행사를 여러분들의 많은 참여로 성황리에 마쳤습니다.
+#### 클라우드바리스타 커뮤니티 제5차 컨퍼런스 행사를 여러분들의 많은 참여로 성황리에 마쳤습니다.
 <br>
-지난 2021년 11월 30에 Cloud-Barista Opensource Community 주관으로 Cloud-Barista 제5차 오픈 컨퍼런스(the 5th Open Conference)로서 온라인/오프라인 병행 행사로 각 프레임워크별 기술 소개 발표와 Cloud-Barista v0.5.0-affogato release 행사가 진행되었습니다.
+'21년도 11월 30일에 개최하였던, Cloud-Barista 커뮤니티 제5차 컨퍼런스인 "멀티클라우드, 새로운 생태계를 향한 클라우드 비긴어게인" 행사에 참여하여 주셔서 감사합니다.
+<br>
+행사에 참여하신 분들의 많은 관심과 호응 덕분에, 오프라인 및 온라인으로 동시 개최된 클라우드바리스타 커뮤니티 행사가 성황리에 마무리할 수 있었습니다.
 <br>
 여러분들의 많은 참여와 관심에 진심으로 감사드립니다.
 
@@ -46,11 +48,11 @@ categories:
 <br>
 </p>
 
-#### 제 5차 오픈 컨퍼런스 개요
-* 행사명 : Cloud-Barista 커뮤니티 제5차 컨퍼런스<br>
+#### 클라우드바리스타 커뮤니티 제5차 컨퍼런스 개요
+* 행사명 : 클라우드바리스타 커뮤니티 제5차 컨퍼런스<br>
   * 부제 : 멀티클라우드, "새로운 생태계를 향한 클라우드 비긴어게인"
 
-* 주  관 : Cloud-Barista 커뮤니티
+* 주  관 : 클라우드바리스타 커뮤니티
  
 * 후  원 : 과학기술정보통신부, 정보통신기획평가원(IITP), 정보통신산업진흥원(NIPA), ETRI 오픈소스센터(EOSC)
 
@@ -60,7 +62,7 @@ categories:
 
 <br>
 
-#### 제 5차 오픈 컨퍼런스 프로그램 및 발표 자료
+#### 클라우드바리스타 커뮤니티 제5차 컨퍼런스 프로그램 및 발표 자료
 
 | 세션 제목 | 발표자 | 발표 자료 | 발표 영상 |
 | :------------------------------: | :--------------: | :----------------: | :--------------------: |
@@ -80,7 +82,7 @@ categories:
 
 <br>
 
-#### 5차 오픈 컨퍼런스 질의사항 답변서(Q&A report) 다운로드
+#### 클라우드바리스타 커뮤니티 제5차 컨퍼런스 질의사항 답변서(Q&A report) 다운로드
 
 * [행사 질의 사항 답변서(Q&A Report) 다운로드](https://github.com/cloud-barista/docs/blob/master/openseminar/v0.5.0-affogato/Cloud-Barista_5th_Open_Conference_QnA_Report.pdf "github.com/cloud-barista/docs/blob/master/openseminar/v0.5.0-affogato/Cloud-Barista_5th_Open_Conference_QnA_Report.pdf"){:target="_blank"}
 
@@ -93,6 +95,6 @@ categories:
 
 <br>
 
-#### 2022년도 상반기에도 6차 오픈 컨퍼런스가 진행될 예정이니 많은 관심 부탁드립니다.
+Cloud-Barista에 주시는 많은 관심과 격려에 다시 한번 감사드리며, '22년 제6차 컨퍼런스에서는 더욱더 성장한 기술과 성숙한 커뮤니티의 모습으로 다시 찾아 뵙겠습니다.
 
-* (참고) [Cloud-Barista Community Open Seminar Milestone](https://cloud-barista.github.io/community/ "Cloud-Barista Open Seminar Milestone"){:target="_blank"}
+* (참고) [클라우드바리스타 커뮤니티 오픈 컨퍼런스 Milestone](https://cloud-barista.github.io/community/ "클라우드바리스타 커뮤니티 오픈 컨퍼런스 Milestone"){:target="_blank"}
