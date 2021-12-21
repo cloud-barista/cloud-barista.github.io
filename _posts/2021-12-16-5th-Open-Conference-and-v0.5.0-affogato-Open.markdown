@@ -62,7 +62,7 @@ categories:
 
 <br>
 
-#### 제 5차 오픈 컨퍼런스 프로그램 및 발표 자료
+#### 클라우드바리스타 커뮤니티 제5차 컨퍼런스 프로그램 및 발표 자료
 
 | 세션 제목 | 발표자 | 발표 자료 | 발표 영상 |
 | :------------------------------: | :--------------: | :----------------: | :--------------------: |
@@ -95,6 +95,6 @@ categories:
 
 <br>
 
-#### 2022년도 상반기에도 클라우드바리스타 커뮤니티 제6차 컨퍼런스가 진행될 예정이니 많은 관심 부탁드립니다.
+Cloud-Barista에 주시는 많은 관심과 격려에 다시 한번 감사드리며, '22년 제6차 컨퍼런스에서는 더욱더 성장한 기술과 성숙한 커뮤니티의 모습으로 다시 찾아 뵙겠습니다.
 
-* (참고) [Cloud-Barista Community Open Seminar Milestone](https://cloud-barista.github.io/community/ "Cloud-Barista Open Seminar Milestone"){:target="_blank"}
+* (참고) [클라우드바리스타 커뮤니티 오픈 컨퍼런스 Milestone](https://cloud-barista.github.io/community/ "클라우드바리스타 커뮤니티 오픈 컨퍼런스 Milestone"){:target="_blank"}
