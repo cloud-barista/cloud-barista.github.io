@@ -396,7 +396,7 @@ Cloud-Barista 멀티 클라우드 인프라 연동 프레임워크(CB-Spider)는
 
 - REST API인 localhost:1024/spider/vm 을 call하면,
 
-  => /api-runtime/rest-runtime/CCIMRest.go 의 startVM(c echo.Context) 함수를 실행하여<br>
+  => /api-runtime/rest-runtime/CCMRest.go 의 startVM(c echo.Context) 함수를 실행하여<br>
 result로서 cmrt.StartVM(req.ConnectionName, rsVM, reqInfo)가 실행됨.
 <p>
   => 이에 따라, /api-runtime/common-runtime/CCMCommon.go 내의 <br>
