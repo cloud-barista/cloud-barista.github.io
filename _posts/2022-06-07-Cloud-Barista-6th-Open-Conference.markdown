@@ -29,7 +29,7 @@ categories:
 <table width="760" id="Table_01" border="0" cellspacing="0" cellpadding="0">
 	<tbody><tr>
 		<td>
-			<a href="https://webinaro.co.kr/Event/160" target="_blank"><img width="760" style="display: block;" alt="" src="/assets/img/blog/6th-conference/6th_edm-v1.2.jpg" border="0"></a>
+			<a href="https://webinaro.co.kr/Event/160" target="_blank"><img width="760" style="display: block;" alt="" src="/assets/img/blog/6th-conference/6th_edm-v1.2_edited.jpg" border="0"></a>
         </td>
 	</tr>
     </tbody>
@@ -46,7 +46,7 @@ categories:
 -   오프라인 현장 행사 참여(무료)
      - 장소 : 부산 파라다이스호텔 카프리룸(2F)       
 -	온라인 방송 채널을 통한 시청(무료)
-     - 행사에 등록하시면 메일로 온라인 방송 참여 링크가 발송됩니다.
+     - 행사에 등록하신 메일로 행사 전에 온라인 방송 링크가 발송될 예정입니다.
 
 &nbsp;&nbsp;&nbsp;&nbsp;
     [<img src="/assets/img/blog/2nd-conference/Lastfm-Icon_22087.png" width="30" height="30" style="border:0px;vertical-align:middle">
