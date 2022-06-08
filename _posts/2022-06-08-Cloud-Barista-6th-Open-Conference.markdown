@@ -70,5 +70,5 @@ categories:
 <span style="color:#557799"><img src="/assets/img/blog/2nd-conference/Github-Icon_22102.png" width="30" height="30" style="border:0px;vertical-align:middle">
 **소스 코드 공개 안내**</span>
 
-   > Cloud-Barista 5차 release 버전(Affogato) 소스 코드 및 관련 문서는 온라인 행사 후 [본 홈페이지](https://cloud-barista.github.io/download/ "본 홈페이지 Download page"){:target="_blank"}
+   > Cloud-Barista 6차 release 버전(Cafe Latte) 소스 코드 및 관련 문서는 온라인 행사 후 [본 홈페이지](https://cloud-barista.github.io/download/ "본 홈페이지 Download page"){:target="_blank"}
     및 [GitHub release 페이지](https://github.com/cloud-barista/cloud-barista "Cloud-Barista release"){:target="_blank"}를 통해 공유해드릴 예정입니다.
