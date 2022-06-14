@@ -29,7 +29,7 @@ categories:
 <table width="760" id="Table_01" border="0" cellspacing="0" cellpadding="0">
 	<tbody><tr>
 		<td>
-			<a href="https://webinaro.co.kr/Event/160" target="_blank"><img width="760" style="display: block;" alt="" src="/assets/img/blog/6th-conference/edm8_fin_high-resized.png" border="0"></a>
+			<a href="https://webinaro.co.kr/Event/160" target="_blank"><img width="760" style="display: block;" alt="" src="/assets/img/blog/6th-conference/6th_eDM_v1.4-high-resized.png" border="0"></a>
         </td>
 	</tr>
     </tbody>
