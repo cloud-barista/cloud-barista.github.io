@@ -55,7 +55,7 @@ categories:
   <br>
    &nbsp;&nbsp;&nbsp;&nbsp; => 행사가 종료되어 행사 녹화영상을 공유해드립니다.<br>
   
-   &nbsp;&nbsp;&nbsp;&nbsp; [[6차 오픈 컨퍼런스 녹화영상 보기]](https://www.youtube.com/watch?v=asXfD76m9Zs&list=PLwwH7W22YKWvIpMHp8LIofsM0BakqURoJ "6차 오픈 컨퍼러스 녹화영상 보기"){:target="_blank"}
+   &nbsp;&nbsp;&nbsp;&nbsp; [[6차 오픈 컨퍼런스 녹화영상 보기]](https://www.youtube.com/playlist?list=PLwwH7W22YKWvIpMHp8LIofsM0BakqURoJ "6차 오픈 컨퍼러스 녹화영상 보기"){:target="_blank"}
 
 <br>
 
