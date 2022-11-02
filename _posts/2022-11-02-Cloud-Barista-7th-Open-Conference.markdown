@@ -12,6 +12,7 @@ categories:
 
 클라우드바리스타(Cloud-Barista) 오픈소스 커뮤니티가 그간의 개발 결과물과 노하우를 공유해 드리고, 클라우드 기술에 관심 있으신 수요자분들, 활용자분들의 소중한 의견을 수렴하고자 제7차 컨퍼런스를 개최하게 되었습니다.
 <br>
+
 금번 행사는 '**멀티클라우드, 컴퓨팅 인프라에 제약없는 서비스 생태계**' 라는 타이틀로 진행될 예정이며, Cloud-Barista의 주요 기술개발 현황 공유와 함께 일곱번째 버전인 '**코르타도(Cortado)**'가 공개될 예정입니다.
 
 '**멀티클라우드로의 일곱번째 여행**'을 함께 떠나 클라우드바리스타들의 이야기들을 함께 들어보시지요.^^<br>
@@ -30,12 +31,12 @@ categories:
 	<tbody>
     <tr>
 		<td>
-			<a href="https://webinaro.co.kr/Event/160" target="_blank"><img width="760" style="display: block;" alt="" src="/assets/img/blog/7th-conference/EDM_1(low)-edited-1.jpg" border="0"></a>
+			<a href="https://webinaro.co.kr/Event/183" target="_blank"><img width="760" style="display: block;" alt="" src="/assets/img/blog/7th-conference/EDM_1(low)-edited-1.jpg" border="0"></a>
         </td>
 	</tr>
         <tr>
 		<td>
-			<a href="https://webinaro.co.kr/Event/160" target="_blank"><img width="760" style="display: block;" alt="" src="/assets/img/blog/7th-conference/EDM_1(low)-edited-2.jpg" border="0"></a>
+			<a href="https://webinaro.co.kr/Event/183" target="_blank"><img width="760" style="display: block;" alt="" src="/assets/img/blog/7th-conference/EDM_1(low)-edited-2.jpg" border="0"></a>
         </td>
 	</tr>
     </tbody>
