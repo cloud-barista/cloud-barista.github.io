@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Blog
-post_title: "[공지] Cloud-Barista 7차 오픈 컨퍼런스(6/22, 수)에 초대합니다"
+post_title: "[공지] Cloud-Barista 7차 오픈 컨퍼런스(11/15, 화)에 초대합니다"
 date: 2022-11-02 11:25:25
 author: 오병택
 categories: 
