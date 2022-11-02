@@ -21,7 +21,7 @@ categories:
 <!--more-->
 
 금번 컨퍼런스는 현장 행사 중심의 온라인 지원 형태로 진행될 예정입니다.
-  - 행사 내용 및 등록 페이지 : https://webinaro.co.kr/Event/183
+  - 행사 내용 및 등록 페이지 : [https://webinaro.co.kr/Event/183](https://webinaro.co.kr/Event/183 "행사 내용 및 등록 페이지"){:target="_blank"}
   - 사전 등록을 하시는 모든 분들께 행사 전 발표자료집 소프트카피를 송부해드릴 예정입니다.
   - 사전 등록 후 오프라인 행사에 참석하신 분들에게 기념품을 제공해드릴 예정입니다.
 
@@ -77,12 +77,11 @@ categories:
 
     *	E-mail : contact-to-cloud-barista@googlegroups.com
 
-
 <br>
 
 <span style="color:#557799"><img src="/assets/img/blog/2nd-conference/Github-Icon_22102.png" width="30" height="30" style="border:0px;vertical-align:middle">
 **소스 코드 공개 안내**
 </span>
 
-   > Cloud-Barista 7차 release 버전(Cortado) 소스 코드 및 관련 문서는 온라인 행사 후 [본 홈페이지](https://cloud-barista.github.io/download/ "본 홈페이지 Download page"){:target="_blank"}
-    및 [GitHub release 페이지](https://github.com/cloud-barista/cloud-barista "Cloud-Barista release"){:target="_blank"}를 통해 공유해드릴 예정입니다.
+   > Cloud-Barista 7차 release 버전(Cortado) 소스 코드 및 관련 문서는 온라인 행사 후 [본 홈페이지 download page](https://cloud-barista.github.io/download/ "본 홈페이지 download page"){:target="_blank"}
+    및 [GitHub release repository](https://github.com/cloud-barista/cloud-barista "Cloud-Barista release"){:target="_blank"}를 통해 공유해드릴 예정입니다.
