@@ -82,5 +82,5 @@ categories:
 **소스 코드 공개 안내**
 </span>
 
-   > Cloud-Barista 6차 release 버전(Cafe Latte) 소스 코드 및 관련 문서는 온라인 행사 후 [본 홈페이지](https://cloud-barista.github.io/download/ "본 홈페이지 Download page"){:target="_blank"}
+   > Cloud-Barista 7차 release 버전(Cortado) 소스 코드 및 관련 문서는 온라인 행사 후 [본 홈페이지](https://cloud-barista.github.io/download/ "본 홈페이지 Download page"){:target="_blank"}
     및 [GitHub release 페이지](https://github.com/cloud-barista/cloud-barista "Cloud-Barista release"){:target="_blank"}를 통해 공유해드릴 예정입니다.
