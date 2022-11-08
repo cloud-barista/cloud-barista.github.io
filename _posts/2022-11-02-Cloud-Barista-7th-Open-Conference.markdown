@@ -33,12 +33,12 @@ categories:
 	<tbody>
     <tr>
 		<td>
-			<a href="https://webinaro.co.kr/Event/183" target="_blank"><img width="760" style="display: block;" alt="" src="/assets/img/blog/7th-conference/EDM_1(low)-edited-1.jpg" border="0"></a>
+			<a href="https://webinaro.co.kr/Event/183" target="_blank"><img width="760" style="display: block;" alt="" src="/assets/img/blog/7th-conference/EDM-1-760x1658.jpg" border="0"></a>
         </td>
 	</tr>
         <tr>
 		<td>
-			<a href="https://webinaro.co.kr/Event/183" target="_blank"><img width="760" style="display: block;" alt="" src="/assets/img/blog/7th-conference/EDM_1(low)-edited-2.jpg" border="0"></a>
+			<a href="https://webinaro.co.kr/Event/183" target="_blank"><img width="760" style="display: block;" alt="" src="/assets/img/blog/7th-conference/EDM-2-760x457.jpg" border="0"></a>
         </td>
 	</tr>
     </tbody>
