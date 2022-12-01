@@ -3,7 +3,7 @@ layout: post
 title: Blog
 post_title: "[공지] 클라우드바리스타 커뮤니티 제7차 컨퍼런스(11/15, 화)에 초대합니다"
 date: 2022-11-01 11:25:25
-author: 오병택
+author: Cloud-Barista
 categories: 
 - 공지
 - Release

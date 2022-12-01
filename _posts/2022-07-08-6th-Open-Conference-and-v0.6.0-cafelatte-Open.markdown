@@ -3,7 +3,7 @@ layout: post
 title: Blog
 post_title: "[공지] 클라우드바리스타 제6차 컨퍼런스 결과물을 공유해드립니다."
 date: 2022-07-07 20:10:10
-author: 오병택
+author: Cloud-Barista
 categories: 
 - 공지
 - Release

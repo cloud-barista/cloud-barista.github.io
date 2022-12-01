@@ -3,7 +3,7 @@ layout: post
 title: Blog
 post_title: "[공지] Cloud-Barista v0.3.0-espresso를 공유해드립니다"
 date: 2020-12-03 22:53:55
-author: 오병택
+author: Cloud-Barista
 categories: 
 - 공지
 - Release

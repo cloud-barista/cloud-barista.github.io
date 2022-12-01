@@ -3,7 +3,7 @@ layout: post
 title: Blog
 post_title: "[공지] 4차 오픈 컨퍼런스 발표자료와 v0.4.0-cafemocha를 공유해드립니다"
 date: 2021-06-30 15:00:25
-author: 오병택
+author: Cloud-Barista
 categories: 
 - 공지
 - Release
