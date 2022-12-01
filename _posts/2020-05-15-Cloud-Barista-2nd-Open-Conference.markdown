@@ -3,7 +3,7 @@ layout: post
 title: Blog
 post_title: "[공지] Cloud-Barista 2nd 오픈 컨퍼런스(6/3, 수)에 초대합니다"
 date: 2020-05-21 15:30:25
-author: 오병택
+author: Cloud-Barista
 categories: 
 - 공지
 - Release

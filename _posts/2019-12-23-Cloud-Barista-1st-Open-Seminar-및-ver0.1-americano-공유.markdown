@@ -3,7 +3,7 @@ layout: post
 title: Blog
 post_title: "[공지] Cloud-Barista ver0.1.0-americano를 공유해드립니다"
 date: 2019-12-23 10:50:52
-author: 오병택
+author: Cloud-Barista
 categories: 
 - 공지
 - Release

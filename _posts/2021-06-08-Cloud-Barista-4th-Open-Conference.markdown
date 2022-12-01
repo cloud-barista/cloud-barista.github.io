@@ -3,7 +3,7 @@ layout: post
 title: Blog
 post_title: "[공지] Cloud-Barista 4th 오픈 컨퍼런스(6/16, 수)에 초대합니다"
 date: 2021-06-08 17:10:25
-author: 오병택
+author: Cloud-Barista
 categories: 
 - 공지
 - Release
