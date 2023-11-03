@@ -2,7 +2,7 @@
 
 # Site settings
 title: Cloud-Barista
-description: "Cloud-Barista는 멀티 클라우드 서비스/솔루션을 개발하는 반드시 필요한 기반/공통SW 기술입니다."
+description: "Cloud-Barista는 멀티 클라우드 서비스/솔루션을 개발하는 반드시 필요한 기반/공통 소프트웨어 기술입니다."
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
 url: "https://cloud-barista.github.io"
@@ -108,16 +108,18 @@ clients:
     img: client04.png
 
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "Cloud-Barista는 멀티 클라우드 서비스/솔루션을 만드는데 반드시 필요한 기반/공통SW 기술입니다."
+about: "Cloud-Barista는 멀티 클라우드 서비스/솔루션을 만드는데 반드시 필요한 기반/공통 소프트웨어 기술입니다."
 
 # Testimonial content. Shown on Home and About page.
 testimonial:
-    message: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
-    author: Marcel Newman
-    position: WEB DESIGNER - BLACKTIE.CO
+    message: "Cloud-Barista is designed to overcome the limitations of the use of a single cloud infrastructure and to develop core technologies that provide the essential functions necessary for the operation and management of multi-cloud services that have recently emerged as a trend."
+    author: Clood-Barista
+    position: Community Leader
 
 plugins:
   - jekyll-redirect-from
 
 whitelist:
   - jekyll-redirect-from
+
+timezone: Asia/Seoul
