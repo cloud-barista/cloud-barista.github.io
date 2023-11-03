@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Blog
-post_title: "[공지] 클라우드바리스타 커뮤니티 제8차 컨퍼런스(11/22, 수)에 초대합니다"
-date: 2022-11-03 13:20:20
+post_title: "[공지] 클라우드바리스타 커뮤니티 제8차 컨퍼런스(23년11월22일, 수)에 초대합니다"
+date: 2023-11-03 13:20:20
 author: Cloud-Barista
 categories: 
 - 공지
@@ -17,10 +17,10 @@ categories:
 <br>
 <!--more-->
 
-금번 컨퍼런스는 현장 중심(Offline)으로 진행될 예정이며, 이번 여덟 번째 행사에 많은 관심과 참여를 부탁드립니다.
-  - 행사 내용 및 등록 페이지 : [https://webinaro.co.kr/Event/255](https://webinaro.co.kr/Event/255 "행사 내용 및 등록 페이지"){:target="_blank"}
+금번 컨퍼런스는 현장 중심(Offline Seminar)으로 진행되며, 이번 여덟 번째 행사에 많은 관심과 참여를 부탁드립니다.
+  - 행사 사전 등록 페이지 : [https://webinaro.co.kr/Event/255](https://webinaro.co.kr/Event/255 "행사 내용 및 등록 페이지"){:target="_blank"}
   - 사전 등록을 하시는 모든 분들께 행사 전 발표자료집 소프트카피를 송부해드릴 예정입니다.
-  - 사전 등록 후 오프라인 행사에 참석하신 분들에게 기념품을 제공해드릴 예정입니다.
+  - 사전 등록 후 행사에 참석하신 분들께 기념품을 제공해드릴 예정입니다.
 
 감사합니다.
 <br>
