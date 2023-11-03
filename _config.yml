@@ -123,3 +123,6 @@ whitelist:
   - jekyll-redirect-from
 
 timezone: Asia/Seoul
+
+# future: 'false' is the default setting, GitHub will ignore posts if they look like they're in the future according to GitHub's timezone.
+future: true
