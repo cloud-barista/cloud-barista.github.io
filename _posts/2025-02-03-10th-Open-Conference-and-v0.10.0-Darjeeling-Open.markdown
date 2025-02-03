@@ -55,7 +55,7 @@ categories:
 
 * 주  관 : 클라우드바리스타 커뮤니티
  
-* 후  원 : 과학기술정보통신부, 정보통신기획평가원(IITP), ETRI오픈소스센터, 부산정보산업진흥원, 한국공개소프트웨어협회, 오픈클라우드플랫폼얼라이언스(OPA),
+* 후  원 : 과학기술정보통신부, 정보통신기획평가원(IITP), ETRI오픈소스센터, 부산정보산업진흥원, 한국공개소프트웨어협회, 오픈클라우드플랫폼얼라이언스(OPA)
 
 * 관계사 : 한국전자통신연구원, 메가존클라우드, 이노그리드, 옵스나우, 스트라토, 나무기술, 마이씨큐, 한국클라우드산업협회
 
@@ -76,6 +76,7 @@ categories:
 | 클라우드바리스타 AI 에이전트 | 박재홍<br>커뮤니티 멤버, 마이씨큐 대표 | [[GitHub](https://github.com/cloud-barista/docs/blob/master/openseminar/v0.10.0-darjeeling/ppt_files/04_(Session2)_Cloud-Barista_AI_Agent.pdf){:target="_blank"}] | [[YouTube](https://youtu.be/4PXxRfmF3T4){:target="_blank"}] |
 | One Service on Multi-Cloud - 멀티 클라우드 인프라 서비스 통합 관리 | 손석호<br>프레임워크 리더 | [[GitHub](https://github.com/cloud-barista/docs/blob/master/openseminar/v0.10.0-darjeeling/ppt_files/05_(Session3)_One_Service_on_Multi_Cloud-Integrated_Management_of_Multi_Cloud_Infrastructure_Services.pdf){:target="_blank"}] | [[YouTube](https://youtu.be/esfLUPluOSs){:target="_blank"}] |
 | One Code, Multi-Cloud - 멀티 클라우드 인프라 연동| 김병섭<br>기술총괄 | [[GitHub](https://github.com/cloud-barista/docs/blob/master/openseminar/v0.10.0-darjeeling/ppt_files/06_(Session4)_One_Code_Multi_Cloud-Multi_cloud_infrastructure_interworking.pdf){:target="_blank"}] | [[YouTube](https://youtu.be/XPIzffrImeM){:target="_blank"}] |
+
 <br>
 
 #### Cloud-Barista v0.10.0-darjeeling 소스 코드 공개
