@@ -69,13 +69,13 @@ categories:
 
 | 세션 제목 | 발표자 | 발표 자료 | 발표 영상 |
 | :------------------------------: | :--------------: | :----------------: | :--------------------: |
-| 축사 | 김태열 원장<br>부산정보산업진흥 | - | [[YouTube](https://youtu.be/kPL70ZNJNxQ){:target="_blank"}] |
+| 축사 | 김태열 원장<br>부산정보산업진흥원 | - | [[YouTube](https://youtu.be/kPL70ZNJNxQ){:target="_blank"}] |
 | (Keynote I) AI 서비스의 새로운 표준: 멀티 클라우드 도입의 이점과 도전 과제 | 권경민 센터장<br>이노그리드 | [[GitHub](https://github.com/cloud-barista/docs/blob/master/openseminar/v0.10.0-darjeeling/ppt_files/01_(Keynote1)_The_New_Normal_for_AI_Services-Benefits_and_Challenges_of_Adopting_Multicloud.pdf){:target="_blank"}] | [[YouTube](https://youtu.be/M3hm2WpLyFA){:target="_blank"}] |
 | (Keynote II) K-오픈소스 전략과 참여 | 심호성 부회장<br>한국공개소프트웨어협회 | [[GitHub](https://github.com/cloud-barista/docs/blob/master/openseminar/v0.10.0-darjeeling/ppt_files/02_(Keynote2)_K-Open_Source_Strategy_and_Participation.pdf){:target="_blank"}] | [[YouTube](https://youtu.be/pXRv2ExP4Ds){:target="_blank"}] |
 | AI 서비스의 혁신적 활용을 위한 컴퓨팅 인프라, 멀티 클라우드 | 강동재<br>커뮤니티 리더 | [[GitHub](https://github.com/cloud-barista/docs/blob/master/openseminar/v0.10.0-darjeeling/ppt_files/03_(Session1)_Computing_infrastructure_for_innovative_use_of_AI_services-Multi-cloud.pdf){:target="_blank"}] | [[YouTube](https://youtu.be/gTr6AUEWAVs){:target="_blank"}] |
-| 클라우드바리스타 AI 에이전트 | 박재홍<br>커뮤니티 멤버, 마이씨큐 대표 | [[GitHub](https://github.com/cloud-barista/docs/blob/master/openseminar/v0.10.0-darjeeling/ppt_files/04_(Session2)_Cloud-Barista_AI_Agent.pdf){:target="_blank"}] | [[YouTube](https://youtu.be/4PXxRfmF3T4){:target="_blank"}] |
-| One Service on Multi-Cloud - 멀티 클라우드 인프라 서비스 통합 관리 | 손석호<br>프레임워크 리더 | [[GitHub](https://github.com/cloud-barista/docs/blob/master/openseminar/v0.10.0-darjeeling/ppt_files/05_(Session3)_One_Service_on_Multi_Cloud-Integrated_Management_of_Multi_Cloud_Infrastructure_Services.pdf){:target="_blank"}] | [[YouTube](https://youtu.be/esfLUPluOSs){:target="_blank"}] |
-| One Code, Multi-Cloud - 멀티 클라우드 인프라 연동| 김병섭<br>기술총괄 | [[GitHub](https://github.com/cloud-barista/docs/blob/master/openseminar/v0.10.0-darjeeling/ppt_files/06_(Session4)_One_Code_Multi_Cloud-Multi_cloud_infrastructure_interworking.pdf){:target="_blank"}] | [[YouTube](https://youtu.be/XPIzffrImeM){:target="_blank"}] |
+| 클라우드바리스타 AI 에이전트 | 박재홍<br>커뮤니티 멤버<br>마이씨큐 대표 | [[GitHub](https://github.com/cloud-barista/docs/blob/master/openseminar/v0.10.0-darjeeling/ppt_files/04_(Session2)_Cloud-Barista_AI_Agent.pdf){:target="_blank"}] | [[YouTube](https://youtu.be/4PXxRfmF3T4){:target="_blank"}] |
+| One Service on Multi-Cloud :<br> 멀티 클라우드 인프라 서비스 통합 관리 | 손석호<br>프레임워크 리더 | [[GitHub](https://github.com/cloud-barista/docs/blob/master/openseminar/v0.10.0-darjeeling/ppt_files/05_(Session3)_One_Service_on_Multi_Cloud-Integrated_Management_of_Multi_Cloud_Infrastructure_Services.pdf){:target="_blank"}] | [[YouTube](https://youtu.be/esfLUPluOSs){:target="_blank"}] |
+| One Code, Multi-Cloud :<br> 멀티 클라우드 인프라 연동| 김병섭<br>기술총괄 | [[GitHub](https://github.com/cloud-barista/docs/blob/master/openseminar/v0.10.0-darjeeling/ppt_files/06_(Session4)_One_Code_Multi_Cloud-Multi_cloud_infrastructure_interworking.pdf){:target="_blank"}] | [[YouTube](https://youtu.be/XPIzffrImeM){:target="_blank"}] |
 
 <br>
 
