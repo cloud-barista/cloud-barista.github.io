@@ -38,12 +38,12 @@ categories:
 	</tr>
     <tr>
 		<td>
-			<a href="https://webinaro.co.kr/Event/343" target="_blank"><img width="760" style="display: block;" alt="" src="/assets/img/blog/12th-conference/edm-250617-2-760x965.jpg" border="0"></a>
+			<a href="https://webinaro.co.kr/Event/343" target="_blank"><img width="760" style="display: block;" alt="" src="/assets/img/blog/12th-conference/EDM_261109-2-760x877.jpg" border="0"></a>
         </td>
 	</tr>
     <tr>
 		<td>
-			<a href="https://webinaro.co.kr/Event/343" target="_blank"><img width="760" style="display: block;" alt="" src="/assets/img/blog/12th-conference/edm-250617-3-760x417.jpg" border="0"></a>
+			<a href="https://webinaro.co.kr/Event/343" target="_blank"><img width="760" style="display: block;" alt="" src="/assets/img/blog/12th-conference/EDM_261109-3-760x506.jpg" border="0"></a>
         </td>
 	</tr>    
     </tbody>
@@ -73,5 +73,5 @@ categories:
 **소스 코드 공개 안내**
 </span>
 
-   > Cloud-Barista 12차 release 버전(EarlGrey) 소스 코드 및 관련 문서는 본 컨퍼런스 개최 후 [본 홈페이지 download page](https://cloud-barista.github.io/download/ "본 홈페이지 download page"){:target="_blank"}
+   > Cloud-Barista 12차 release 버전(Jasmine) 소스 코드 및 관련 문서는 본 컨퍼런스 개최 후 [본 홈페이지 download page](https://cloud-barista.github.io/download/ "본 홈페이지 download page"){:target="_blank"}
     및 [GitHub release repository](https://github.com/cloud-barista/cloud-barista "Cloud-Barista release"){:target="_blank"}를 통해 공유해드릴 예정입니다.
