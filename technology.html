@@ -52,7 +52,18 @@ permalink: /technology/
                         <p>CB-Tumblebug는 MCIS 통합 관리 프레임워크로서 1) 네임스페이스 및 멀티 클라우드 인프라 리소스 (Multi-Cloud Infrastructure Service, MCIS) 관리 기능, 2) MCIS 최적 구성 및 스케줄링 기능, 3) MCIS 프로비저닝 기능, 4) MCIS 라이프사이클 관리 기능, 5) MCIS 자동 제어 기능 등 MCIS 통합 관리를 위한 기능들을 종합적으로 제공합니다.</p>
                     </td>    
                 </tr>
-		<tr>
+		        <tr>
+                    <th scope="row">
+                        <img class="img-responsive" style="max-width:190px;width:100%" src="{{ "/assets/img/frameworks/cm-beetle.png" | prepend: site.baseurl }}" alt="">
+                    </th>
+                    <td>
+                        <h4>CM-Beetle : 멀티 클라우드 인프라 마이그레이션 프레임워크</h4>
+                        <p>멀티 클라우드 인프라 마이그레이션 프레임워크 기술은 온프레미스나 클라우드에서 운영 중인 소스 컴퓨팅 인프라를 멀티클라우드 환경으로 옮길 때 최적의 타겟 인프라 구성을 추천하고 마이그레이션 실행을 제어합니다.</p>
+                        <p>소스 인프라 정보를 분석해 VNet, 서브넷, 보안 그룹, SSH 키, VM 사양, OS 이미지 등 타겟 클라우드에 맞는 자원 구성을 추천하고, CB-Tumblebug과 연계해 멀티클라우드 인프라(MCI)를 타겟 컴퓨팅 인프라로 구축합니다. 쿠버네티스 클러스터, 네트워크 로드밸런서(NLB), 오브젝트 스토리지, 관리형 RDBMS 같은 관리형 서비스로의 이전도 지원합니다.</p>
+                        <p>또한 CSP와 관계없이 파일시스템과 S3 호환 오브젝트 스토리지 사이에서 데이터를 옮기는 기능을 개발하고 있습니다. 지원 대상은 AWS, Azure, GCP, Alibaba, Tencent, IBM, OpenStack, NCP, NHN, KT 등 국내외 주요 클라우드 서비스입니다.</p>                            
+                    </td>    
+                </tr>
+                <tr>
                     <th scope="row">
                         <img class="img-responsive" style="max-width:190px;width:100%" src="{{ "/assets/img/frameworks/cb-ladybug.png" | prepend: site.baseurl }}" alt="">
                     </th>
