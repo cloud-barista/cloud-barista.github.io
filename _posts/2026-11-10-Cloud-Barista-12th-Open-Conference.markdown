@@ -33,17 +33,17 @@ categories:
 	<tbody>
     <tr>
 		<td>
-			<a href="https://webinaro.co.kr/Event/343" target="_blank"><img width="760" style="display: block;" alt="" src="/assets/img/blog/12th-conference/EDM_261109-1-760x813.jpg" border="0"></a>
+			<a href="https://webinaro.co.kr/Event/397" target="_blank"><img width="760" style="display: block;" alt="" src="/assets/img/blog/12th-conference/EDM_261109-1-760x813.jpg" border="0"></a>
         </td>
 	</tr>
     <tr>
 		<td>
-			<a href="https://webinaro.co.kr/Event/343" target="_blank"><img width="760" style="display: block;" alt="" src="/assets/img/blog/12th-conference/EDM_261109-2-760x877.jpg" border="0"></a>
+			<a href="https://webinaro.co.kr/Event/397" target="_blank"><img width="760" style="display: block;" alt="" src="/assets/img/blog/12th-conference/EDM_261109-2-760x877.jpg" border="0"></a>
         </td>
 	</tr>
     <tr>
 		<td>
-			<a href="https://webinaro.co.kr/Event/343" target="_blank"><img width="760" style="display: block;" alt="" src="/assets/img/blog/12th-conference/EDM_261109-3-760x506.jpg" border="0"></a>
+			<a href="https://webinaro.co.kr/Event/397" target="_blank"><img width="760" style="display: block;" alt="" src="/assets/img/blog/12th-conference/EDM_261109-3-760x506.jpg" border="0"></a>
         </td>
 	</tr>    
     </tbody>
